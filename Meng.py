@@ -8,7 +8,7 @@ def tableselecter():
     
 
 while True: 
-    MT = input("input: ")
+    MT = "who is the teacher of CS-111"
 
     resp = client.message(MT)
 
