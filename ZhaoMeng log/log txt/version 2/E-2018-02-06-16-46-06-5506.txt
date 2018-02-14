@@ -1,0 +1,66 @@
+UserInput: the 1User input
+WitOutput: the 1wit output
+DBOutput : the 1DB output
+CBOutput : DDD
+
+**********
+UserInput: the 2User input
+WitOutput: the 2wit output
+DBOutput : the 2DB output
+CBOutput : DDD   False
+ 
+**********
+UserInput: the 3User input
+WitOutput: the 3wit output
+DBOutput : the 3DB output
+CBOutput : DDD
+
+**********
+UserInput: the 4User input
+WitOutput: the 4wit output
+DBOutput : the 4DB output
+CBOutput : DDD   False
+ 
+**********
+UserInput: the 5User input
+WitOutput: the 5wit output
+DBOutput : the 5DB output
+CBOutput : DDD
+
+**********
+UserInput: the 6User input
+WitOutput: the 6wit output
+DBOutput : the 6DB output
+CBOutput : DDD   False
+ 
+**********
+UserInput: the 7User input
+WitOutput: the 7wit output
+DBOutput : the 7DB output
+CBOutput : DDD
+
+**********
+UserInput: the 8User input
+WitOutput: the 8wit output
+DBOutput : the 8DB output
+CBOutput : DDD   False
+ 
+**********
+UserInput: the 9User input
+WitOutput: the 9wit output
+DBOutput : the 9DB output
+CBOutput : DDD
+
+**********
+UserInput: the 10User input
+WitOutput: the 10wit output
+DBOutput : the 10DB output
+CBOutput : DDD   False
+ 
+**********
+UserInput: the 11User input
+WitOutput: the 11wit output
+DBOutput : the 11DB output
+CBOutput : DDD
+
+**********

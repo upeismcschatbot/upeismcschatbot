@@ -1,0 +1,6000 @@
+UserInput: the 0User input
+WitOutput: the 0wit output
+DBOutput: the 0DB output
+CBOutput: the 0CB output     False
+          
+**********
+UserInput: the 1User input
+WitOutput: the 1wit output
+DBOutput: the 1DB output
+CBOutput: the 1CB output
+          
+**********
+UserInput: the 2User input
+WitOutput: the 2wit output
+DBOutput: the 2DB output
+CBOutput: the 2CB output     False
+          
+**********
+UserInput: the 3User input
+WitOutput: the 3wit output
+DBOutput: the 3DB output
+CBOutput: the 3CB output
+          
+**********
+UserInput: the 4User input
+WitOutput: the 4wit output
+DBOutput: the 4DB output
+CBOutput: the 4CB output     False
+          
+**********
+UserInput: the 5User input
+WitOutput: the 5wit output
+DBOutput: the 5DB output
+CBOutput: the 5CB output
+          
+**********
+UserInput: the 6User input
+WitOutput: the 6wit output
+DBOutput: the 6DB output
+CBOutput: the 6CB output     False
+          
+**********
+UserInput: the 7User input
+WitOutput: the 7wit output
+DBOutput: the 7DB output
+CBOutput: the 7CB output
+          
+**********
+UserInput: the 8User input
+WitOutput: the 8wit output
+DBOutput: the 8DB output
+CBOutput: the 8CB output     False
+          
+**********
+UserInput: the 9User input
+WitOutput: the 9wit output
+DBOutput: the 9DB output
+CBOutput: the 9CB output
+          
+**********
+UserInput: the 10User input
+WitOutput: the 10wit output
+DBOutput: the 10DB output
+CBOutput: the 10CB output     False
+          
+**********
+UserInput: the 11User input
+WitOutput: the 11wit output
+DBOutput: the 11DB output
+CBOutput: the 11CB output
+          
+**********
+UserInput: the 12User input
+WitOutput: the 12wit output
+DBOutput: the 12DB output
+CBOutput: the 12CB output     False
+          
+**********
+UserInput: the 13User input
+WitOutput: the 13wit output
+DBOutput: the 13DB output
+CBOutput: the 13CB output
+          
+**********
+UserInput: the 14User input
+WitOutput: the 14wit output
+DBOutput: the 14DB output
+CBOutput: the 14CB output     False
+          
+**********
+UserInput: the 15User input
+WitOutput: the 15wit output
+DBOutput: the 15DB output
+CBOutput: the 15CB output
+          
+**********
+UserInput: the 16User input
+WitOutput: the 16wit output
+DBOutput: the 16DB output
+CBOutput: the 16CB output     False
+          
+**********
+UserInput: the 17User input
+WitOutput: the 17wit output
+DBOutput: the 17DB output
+CBOutput: the 17CB output
+          
+**********
+UserInput: the 18User input
+WitOutput: the 18wit output
+DBOutput: the 18DB output
+CBOutput: the 18CB output     False
+          
+**********
+UserInput: the 19User input
+WitOutput: the 19wit output
+DBOutput: the 19DB output
+CBOutput: the 19CB output
+          
+**********
+UserInput: the 20User input
+WitOutput: the 20wit output
+DBOutput: the 20DB output
+CBOutput: the 20CB output     False
+          
+**********
+UserInput: the 21User input
+WitOutput: the 21wit output
+DBOutput: the 21DB output
+CBOutput: the 21CB output
+          
+**********
+UserInput: the 22User input
+WitOutput: the 22wit output
+DBOutput: the 22DB output
+CBOutput: the 22CB output     False
+          
+**********
+UserInput: the 23User input
+WitOutput: the 23wit output
+DBOutput: the 23DB output
+CBOutput: the 23CB output
+          
+**********
+UserInput: the 24User input
+WitOutput: the 24wit output
+DBOutput: the 24DB output
+CBOutput: the 24CB output     False
+          
+**********
+UserInput: the 25User input
+WitOutput: the 25wit output
+DBOutput: the 25DB output
+CBOutput: the 25CB output
+          
+**********
+UserInput: the 26User input
+WitOutput: the 26wit output
+DBOutput: the 26DB output
+CBOutput: the 26CB output     False
+          
+**********
+UserInput: the 27User input
+WitOutput: the 27wit output
+DBOutput: the 27DB output
+CBOutput: the 27CB output
+          
+**********
+UserInput: the 28User input
+WitOutput: the 28wit output
+DBOutput: the 28DB output
+CBOutput: the 28CB output     False
+          
+**********
+UserInput: the 29User input
+WitOutput: the 29wit output
+DBOutput: the 29DB output
+CBOutput: the 29CB output
+          
+**********
+UserInput: the 30User input
+WitOutput: the 30wit output
+DBOutput: the 30DB output
+CBOutput: the 30CB output     False
+          
+**********
+UserInput: the 31User input
+WitOutput: the 31wit output
+DBOutput: the 31DB output
+CBOutput: the 31CB output
+          
+**********
+UserInput: the 32User input
+WitOutput: the 32wit output
+DBOutput: the 32DB output
+CBOutput: the 32CB output     False
+          
+**********
+UserInput: the 33User input
+WitOutput: the 33wit output
+DBOutput: the 33DB output
+CBOutput: the 33CB output
+          
+**********
+UserInput: the 34User input
+WitOutput: the 34wit output
+DBOutput: the 34DB output
+CBOutput: the 34CB output     False
+          
+**********
+UserInput: the 35User input
+WitOutput: the 35wit output
+DBOutput: the 35DB output
+CBOutput: the 35CB output
+          
+**********
+UserInput: the 36User input
+WitOutput: the 36wit output
+DBOutput: the 36DB output
+CBOutput: the 36CB output     False
+          
+**********
+UserInput: the 37User input
+WitOutput: the 37wit output
+DBOutput: the 37DB output
+CBOutput: the 37CB output
+          
+**********
+UserInput: the 38User input
+WitOutput: the 38wit output
+DBOutput: the 38DB output
+CBOutput: the 38CB output     False
+          
+**********
+UserInput: the 39User input
+WitOutput: the 39wit output
+DBOutput: the 39DB output
+CBOutput: the 39CB output
+          
+**********
+UserInput: the 40User input
+WitOutput: the 40wit output
+DBOutput: the 40DB output
+CBOutput: the 40CB output     False
+          
+**********
+UserInput: the 41User input
+WitOutput: the 41wit output
+DBOutput: the 41DB output
+CBOutput: the 41CB output
+          
+**********
+UserInput: the 42User input
+WitOutput: the 42wit output
+DBOutput: the 42DB output
+CBOutput: the 42CB output     False
+          
+**********
+UserInput: the 43User input
+WitOutput: the 43wit output
+DBOutput: the 43DB output
+CBOutput: the 43CB output
+          
+**********
+UserInput: the 44User input
+WitOutput: the 44wit output
+DBOutput: the 44DB output
+CBOutput: the 44CB output     False
+          
+**********
+UserInput: the 45User input
+WitOutput: the 45wit output
+DBOutput: the 45DB output
+CBOutput: the 45CB output
+          
+**********
+UserInput: the 46User input
+WitOutput: the 46wit output
+DBOutput: the 46DB output
+CBOutput: the 46CB output     False
+          
+**********
+UserInput: the 47User input
+WitOutput: the 47wit output
+DBOutput: the 47DB output
+CBOutput: the 47CB output
+          
+**********
+UserInput: the 48User input
+WitOutput: the 48wit output
+DBOutput: the 48DB output
+CBOutput: the 48CB output     False
+          
+**********
+UserInput: the 49User input
+WitOutput: the 49wit output
+DBOutput: the 49DB output
+CBOutput: the 49CB output
+          
+**********
+UserInput: the 50User input
+WitOutput: the 50wit output
+DBOutput: the 50DB output
+CBOutput: the 50CB output     False
+          
+**********
+UserInput: the 51User input
+WitOutput: the 51wit output
+DBOutput: the 51DB output
+CBOutput: the 51CB output
+          
+**********
+UserInput: the 52User input
+WitOutput: the 52wit output
+DBOutput: the 52DB output
+CBOutput: the 52CB output     False
+          
+**********
+UserInput: the 53User input
+WitOutput: the 53wit output
+DBOutput: the 53DB output
+CBOutput: the 53CB output
+          
+**********
+UserInput: the 54User input
+WitOutput: the 54wit output
+DBOutput: the 54DB output
+CBOutput: the 54CB output     False
+          
+**********
+UserInput: the 55User input
+WitOutput: the 55wit output
+DBOutput: the 55DB output
+CBOutput: the 55CB output
+          
+**********
+UserInput: the 56User input
+WitOutput: the 56wit output
+DBOutput: the 56DB output
+CBOutput: the 56CB output     False
+          
+**********
+UserInput: the 57User input
+WitOutput: the 57wit output
+DBOutput: the 57DB output
+CBOutput: the 57CB output
+          
+**********
+UserInput: the 58User input
+WitOutput: the 58wit output
+DBOutput: the 58DB output
+CBOutput: the 58CB output     False
+          
+**********
+UserInput: the 59User input
+WitOutput: the 59wit output
+DBOutput: the 59DB output
+CBOutput: the 59CB output
+          
+**********
+UserInput: the 60User input
+WitOutput: the 60wit output
+DBOutput: the 60DB output
+CBOutput: the 60CB output     False
+          
+**********
+UserInput: the 61User input
+WitOutput: the 61wit output
+DBOutput: the 61DB output
+CBOutput: the 61CB output
+          
+**********
+UserInput: the 62User input
+WitOutput: the 62wit output
+DBOutput: the 62DB output
+CBOutput: the 62CB output     False
+          
+**********
+UserInput: the 63User input
+WitOutput: the 63wit output
+DBOutput: the 63DB output
+CBOutput: the 63CB output
+          
+**********
+UserInput: the 64User input
+WitOutput: the 64wit output
+DBOutput: the 64DB output
+CBOutput: the 64CB output     False
+          
+**********
+UserInput: the 65User input
+WitOutput: the 65wit output
+DBOutput: the 65DB output
+CBOutput: the 65CB output
+          
+**********
+UserInput: the 66User input
+WitOutput: the 66wit output
+DBOutput: the 66DB output
+CBOutput: the 66CB output     False
+          
+**********
+UserInput: the 67User input
+WitOutput: the 67wit output
+DBOutput: the 67DB output
+CBOutput: the 67CB output
+          
+**********
+UserInput: the 68User input
+WitOutput: the 68wit output
+DBOutput: the 68DB output
+CBOutput: the 68CB output     False
+          
+**********
+UserInput: the 69User input
+WitOutput: the 69wit output
+DBOutput: the 69DB output
+CBOutput: the 69CB output
+          
+**********
+UserInput: the 70User input
+WitOutput: the 70wit output
+DBOutput: the 70DB output
+CBOutput: the 70CB output     False
+          
+**********
+UserInput: the 71User input
+WitOutput: the 71wit output
+DBOutput: the 71DB output
+CBOutput: the 71CB output
+          
+**********
+UserInput: the 72User input
+WitOutput: the 72wit output
+DBOutput: the 72DB output
+CBOutput: the 72CB output     False
+          
+**********
+UserInput: the 73User input
+WitOutput: the 73wit output
+DBOutput: the 73DB output
+CBOutput: the 73CB output
+          
+**********
+UserInput: the 74User input
+WitOutput: the 74wit output
+DBOutput: the 74DB output
+CBOutput: the 74CB output     False
+          
+**********
+UserInput: the 75User input
+WitOutput: the 75wit output
+DBOutput: the 75DB output
+CBOutput: the 75CB output
+          
+**********
+UserInput: the 76User input
+WitOutput: the 76wit output
+DBOutput: the 76DB output
+CBOutput: the 76CB output     False
+          
+**********
+UserInput: the 77User input
+WitOutput: the 77wit output
+DBOutput: the 77DB output
+CBOutput: the 77CB output
+          
+**********
+UserInput: the 78User input
+WitOutput: the 78wit output
+DBOutput: the 78DB output
+CBOutput: the 78CB output     False
+          
+**********
+UserInput: the 79User input
+WitOutput: the 79wit output
+DBOutput: the 79DB output
+CBOutput: the 79CB output
+          
+**********
+UserInput: the 80User input
+WitOutput: the 80wit output
+DBOutput: the 80DB output
+CBOutput: the 80CB output     False
+          
+**********
+UserInput: the 81User input
+WitOutput: the 81wit output
+DBOutput: the 81DB output
+CBOutput: the 81CB output
+          
+**********
+UserInput: the 82User input
+WitOutput: the 82wit output
+DBOutput: the 82DB output
+CBOutput: the 82CB output     False
+          
+**********
+UserInput: the 83User input
+WitOutput: the 83wit output
+DBOutput: the 83DB output
+CBOutput: the 83CB output
+          
+**********
+UserInput: the 84User input
+WitOutput: the 84wit output
+DBOutput: the 84DB output
+CBOutput: the 84CB output     False
+          
+**********
+UserInput: the 85User input
+WitOutput: the 85wit output
+DBOutput: the 85DB output
+CBOutput: the 85CB output
+          
+**********
+UserInput: the 86User input
+WitOutput: the 86wit output
+DBOutput: the 86DB output
+CBOutput: the 86CB output     False
+          
+**********
+UserInput: the 87User input
+WitOutput: the 87wit output
+DBOutput: the 87DB output
+CBOutput: the 87CB output
+          
+**********
+UserInput: the 88User input
+WitOutput: the 88wit output
+DBOutput: the 88DB output
+CBOutput: the 88CB output     False
+          
+**********
+UserInput: the 89User input
+WitOutput: the 89wit output
+DBOutput: the 89DB output
+CBOutput: the 89CB output
+          
+**********
+UserInput: the 90User input
+WitOutput: the 90wit output
+DBOutput: the 90DB output
+CBOutput: the 90CB output     False
+          
+**********
+UserInput: the 91User input
+WitOutput: the 91wit output
+DBOutput: the 91DB output
+CBOutput: the 91CB output
+          
+**********
+UserInput: the 92User input
+WitOutput: the 92wit output
+DBOutput: the 92DB output
+CBOutput: the 92CB output     False
+          
+**********
+UserInput: the 93User input
+WitOutput: the 93wit output
+DBOutput: the 93DB output
+CBOutput: the 93CB output
+          
+**********
+UserInput: the 94User input
+WitOutput: the 94wit output
+DBOutput: the 94DB output
+CBOutput: the 94CB output     False
+          
+**********
+UserInput: the 95User input
+WitOutput: the 95wit output
+DBOutput: the 95DB output
+CBOutput: the 95CB output
+          
+**********
+UserInput: the 96User input
+WitOutput: the 96wit output
+DBOutput: the 96DB output
+CBOutput: the 96CB output     False
+          
+**********
+UserInput: the 97User input
+WitOutput: the 97wit output
+DBOutput: the 97DB output
+CBOutput: the 97CB output
+          
+**********
+UserInput: the 98User input
+WitOutput: the 98wit output
+DBOutput: the 98DB output
+CBOutput: the 98CB output     False
+          
+**********
+UserInput: the 99User input
+WitOutput: the 99wit output
+DBOutput: the 99DB output
+CBOutput: the 99CB output
+          
+**********
+UserInput: the 100User input
+WitOutput: the 100wit output
+DBOutput: the 100DB output
+CBOutput: the 100CB output     False
+          
+**********
+UserInput: the 101User input
+WitOutput: the 101wit output
+DBOutput: the 101DB output
+CBOutput: the 101CB output
+          
+**********
+UserInput: the 102User input
+WitOutput: the 102wit output
+DBOutput: the 102DB output
+CBOutput: the 102CB output     False
+          
+**********
+UserInput: the 103User input
+WitOutput: the 103wit output
+DBOutput: the 103DB output
+CBOutput: the 103CB output
+          
+**********
+UserInput: the 104User input
+WitOutput: the 104wit output
+DBOutput: the 104DB output
+CBOutput: the 104CB output     False
+          
+**********
+UserInput: the 105User input
+WitOutput: the 105wit output
+DBOutput: the 105DB output
+CBOutput: the 105CB output
+          
+**********
+UserInput: the 106User input
+WitOutput: the 106wit output
+DBOutput: the 106DB output
+CBOutput: the 106CB output     False
+          
+**********
+UserInput: the 107User input
+WitOutput: the 107wit output
+DBOutput: the 107DB output
+CBOutput: the 107CB output
+          
+**********
+UserInput: the 108User input
+WitOutput: the 108wit output
+DBOutput: the 108DB output
+CBOutput: the 108CB output     False
+          
+**********
+UserInput: the 109User input
+WitOutput: the 109wit output
+DBOutput: the 109DB output
+CBOutput: the 109CB output
+          
+**********
+UserInput: the 110User input
+WitOutput: the 110wit output
+DBOutput: the 110DB output
+CBOutput: the 110CB output     False
+          
+**********
+UserInput: the 111User input
+WitOutput: the 111wit output
+DBOutput: the 111DB output
+CBOutput: the 111CB output
+          
+**********
+UserInput: the 112User input
+WitOutput: the 112wit output
+DBOutput: the 112DB output
+CBOutput: the 112CB output     False
+          
+**********
+UserInput: the 113User input
+WitOutput: the 113wit output
+DBOutput: the 113DB output
+CBOutput: the 113CB output
+          
+**********
+UserInput: the 114User input
+WitOutput: the 114wit output
+DBOutput: the 114DB output
+CBOutput: the 114CB output     False
+          
+**********
+UserInput: the 115User input
+WitOutput: the 115wit output
+DBOutput: the 115DB output
+CBOutput: the 115CB output
+          
+**********
+UserInput: the 116User input
+WitOutput: the 116wit output
+DBOutput: the 116DB output
+CBOutput: the 116CB output     False
+          
+**********
+UserInput: the 117User input
+WitOutput: the 117wit output
+DBOutput: the 117DB output
+CBOutput: the 117CB output
+          
+**********
+UserInput: the 118User input
+WitOutput: the 118wit output
+DBOutput: the 118DB output
+CBOutput: the 118CB output     False
+          
+**********
+UserInput: the 119User input
+WitOutput: the 119wit output
+DBOutput: the 119DB output
+CBOutput: the 119CB output
+          
+**********
+UserInput: the 120User input
+WitOutput: the 120wit output
+DBOutput: the 120DB output
+CBOutput: the 120CB output     False
+          
+**********
+UserInput: the 121User input
+WitOutput: the 121wit output
+DBOutput: the 121DB output
+CBOutput: the 121CB output
+          
+**********
+UserInput: the 122User input
+WitOutput: the 122wit output
+DBOutput: the 122DB output
+CBOutput: the 122CB output     False
+          
+**********
+UserInput: the 123User input
+WitOutput: the 123wit output
+DBOutput: the 123DB output
+CBOutput: the 123CB output
+          
+**********
+UserInput: the 124User input
+WitOutput: the 124wit output
+DBOutput: the 124DB output
+CBOutput: the 124CB output     False
+          
+**********
+UserInput: the 125User input
+WitOutput: the 125wit output
+DBOutput: the 125DB output
+CBOutput: the 125CB output
+          
+**********
+UserInput: the 126User input
+WitOutput: the 126wit output
+DBOutput: the 126DB output
+CBOutput: the 126CB output     False
+          
+**********
+UserInput: the 127User input
+WitOutput: the 127wit output
+DBOutput: the 127DB output
+CBOutput: the 127CB output
+          
+**********
+UserInput: the 128User input
+WitOutput: the 128wit output
+DBOutput: the 128DB output
+CBOutput: the 128CB output     False
+          
+**********
+UserInput: the 129User input
+WitOutput: the 129wit output
+DBOutput: the 129DB output
+CBOutput: the 129CB output
+          
+**********
+UserInput: the 130User input
+WitOutput: the 130wit output
+DBOutput: the 130DB output
+CBOutput: the 130CB output     False
+          
+**********
+UserInput: the 131User input
+WitOutput: the 131wit output
+DBOutput: the 131DB output
+CBOutput: the 131CB output
+          
+**********
+UserInput: the 132User input
+WitOutput: the 132wit output
+DBOutput: the 132DB output
+CBOutput: the 132CB output     False
+          
+**********
+UserInput: the 133User input
+WitOutput: the 133wit output
+DBOutput: the 133DB output
+CBOutput: the 133CB output
+          
+**********
+UserInput: the 134User input
+WitOutput: the 134wit output
+DBOutput: the 134DB output
+CBOutput: the 134CB output     False
+          
+**********
+UserInput: the 135User input
+WitOutput: the 135wit output
+DBOutput: the 135DB output
+CBOutput: the 135CB output
+          
+**********
+UserInput: the 136User input
+WitOutput: the 136wit output
+DBOutput: the 136DB output
+CBOutput: the 136CB output     False
+          
+**********
+UserInput: the 137User input
+WitOutput: the 137wit output
+DBOutput: the 137DB output
+CBOutput: the 137CB output
+          
+**********
+UserInput: the 138User input
+WitOutput: the 138wit output
+DBOutput: the 138DB output
+CBOutput: the 138CB output     False
+          
+**********
+UserInput: the 139User input
+WitOutput: the 139wit output
+DBOutput: the 139DB output
+CBOutput: the 139CB output
+          
+**********
+UserInput: the 140User input
+WitOutput: the 140wit output
+DBOutput: the 140DB output
+CBOutput: the 140CB output     False
+          
+**********
+UserInput: the 141User input
+WitOutput: the 141wit output
+DBOutput: the 141DB output
+CBOutput: the 141CB output
+          
+**********
+UserInput: the 142User input
+WitOutput: the 142wit output
+DBOutput: the 142DB output
+CBOutput: the 142CB output     False
+          
+**********
+UserInput: the 143User input
+WitOutput: the 143wit output
+DBOutput: the 143DB output
+CBOutput: the 143CB output
+          
+**********
+UserInput: the 144User input
+WitOutput: the 144wit output
+DBOutput: the 144DB output
+CBOutput: the 144CB output     False
+          
+**********
+UserInput: the 145User input
+WitOutput: the 145wit output
+DBOutput: the 145DB output
+CBOutput: the 145CB output
+          
+**********
+UserInput: the 146User input
+WitOutput: the 146wit output
+DBOutput: the 146DB output
+CBOutput: the 146CB output     False
+          
+**********
+UserInput: the 147User input
+WitOutput: the 147wit output
+DBOutput: the 147DB output
+CBOutput: the 147CB output
+          
+**********
+UserInput: the 148User input
+WitOutput: the 148wit output
+DBOutput: the 148DB output
+CBOutput: the 148CB output     False
+          
+**********
+UserInput: the 149User input
+WitOutput: the 149wit output
+DBOutput: the 149DB output
+CBOutput: the 149CB output
+          
+**********
+UserInput: the 150User input
+WitOutput: the 150wit output
+DBOutput: the 150DB output
+CBOutput: the 150CB output     False
+          
+**********
+UserInput: the 151User input
+WitOutput: the 151wit output
+DBOutput: the 151DB output
+CBOutput: the 151CB output
+          
+**********
+UserInput: the 152User input
+WitOutput: the 152wit output
+DBOutput: the 152DB output
+CBOutput: the 152CB output     False
+          
+**********
+UserInput: the 153User input
+WitOutput: the 153wit output
+DBOutput: the 153DB output
+CBOutput: the 153CB output
+          
+**********
+UserInput: the 154User input
+WitOutput: the 154wit output
+DBOutput: the 154DB output
+CBOutput: the 154CB output     False
+          
+**********
+UserInput: the 155User input
+WitOutput: the 155wit output
+DBOutput: the 155DB output
+CBOutput: the 155CB output
+          
+**********
+UserInput: the 156User input
+WitOutput: the 156wit output
+DBOutput: the 156DB output
+CBOutput: the 156CB output     False
+          
+**********
+UserInput: the 157User input
+WitOutput: the 157wit output
+DBOutput: the 157DB output
+CBOutput: the 157CB output
+          
+**********
+UserInput: the 158User input
+WitOutput: the 158wit output
+DBOutput: the 158DB output
+CBOutput: the 158CB output     False
+          
+**********
+UserInput: the 159User input
+WitOutput: the 159wit output
+DBOutput: the 159DB output
+CBOutput: the 159CB output
+          
+**********
+UserInput: the 160User input
+WitOutput: the 160wit output
+DBOutput: the 160DB output
+CBOutput: the 160CB output     False
+          
+**********
+UserInput: the 161User input
+WitOutput: the 161wit output
+DBOutput: the 161DB output
+CBOutput: the 161CB output
+          
+**********
+UserInput: the 162User input
+WitOutput: the 162wit output
+DBOutput: the 162DB output
+CBOutput: the 162CB output     False
+          
+**********
+UserInput: the 163User input
+WitOutput: the 163wit output
+DBOutput: the 163DB output
+CBOutput: the 163CB output
+          
+**********
+UserInput: the 164User input
+WitOutput: the 164wit output
+DBOutput: the 164DB output
+CBOutput: the 164CB output     False
+          
+**********
+UserInput: the 165User input
+WitOutput: the 165wit output
+DBOutput: the 165DB output
+CBOutput: the 165CB output
+          
+**********
+UserInput: the 166User input
+WitOutput: the 166wit output
+DBOutput: the 166DB output
+CBOutput: the 166CB output     False
+          
+**********
+UserInput: the 167User input
+WitOutput: the 167wit output
+DBOutput: the 167DB output
+CBOutput: the 167CB output
+          
+**********
+UserInput: the 168User input
+WitOutput: the 168wit output
+DBOutput: the 168DB output
+CBOutput: the 168CB output     False
+          
+**********
+UserInput: the 169User input
+WitOutput: the 169wit output
+DBOutput: the 169DB output
+CBOutput: the 169CB output
+          
+**********
+UserInput: the 170User input
+WitOutput: the 170wit output
+DBOutput: the 170DB output
+CBOutput: the 170CB output     False
+          
+**********
+UserInput: the 171User input
+WitOutput: the 171wit output
+DBOutput: the 171DB output
+CBOutput: the 171CB output
+          
+**********
+UserInput: the 172User input
+WitOutput: the 172wit output
+DBOutput: the 172DB output
+CBOutput: the 172CB output     False
+          
+**********
+UserInput: the 173User input
+WitOutput: the 173wit output
+DBOutput: the 173DB output
+CBOutput: the 173CB output
+          
+**********
+UserInput: the 174User input
+WitOutput: the 174wit output
+DBOutput: the 174DB output
+CBOutput: the 174CB output     False
+          
+**********
+UserInput: the 175User input
+WitOutput: the 175wit output
+DBOutput: the 175DB output
+CBOutput: the 175CB output
+          
+**********
+UserInput: the 176User input
+WitOutput: the 176wit output
+DBOutput: the 176DB output
+CBOutput: the 176CB output     False
+          
+**********
+UserInput: the 177User input
+WitOutput: the 177wit output
+DBOutput: the 177DB output
+CBOutput: the 177CB output
+          
+**********
+UserInput: the 178User input
+WitOutput: the 178wit output
+DBOutput: the 178DB output
+CBOutput: the 178CB output     False
+          
+**********
+UserInput: the 179User input
+WitOutput: the 179wit output
+DBOutput: the 179DB output
+CBOutput: the 179CB output
+          
+**********
+UserInput: the 180User input
+WitOutput: the 180wit output
+DBOutput: the 180DB output
+CBOutput: the 180CB output     False
+          
+**********
+UserInput: the 181User input
+WitOutput: the 181wit output
+DBOutput: the 181DB output
+CBOutput: the 181CB output
+          
+**********
+UserInput: the 182User input
+WitOutput: the 182wit output
+DBOutput: the 182DB output
+CBOutput: the 182CB output     False
+          
+**********
+UserInput: the 183User input
+WitOutput: the 183wit output
+DBOutput: the 183DB output
+CBOutput: the 183CB output
+          
+**********
+UserInput: the 184User input
+WitOutput: the 184wit output
+DBOutput: the 184DB output
+CBOutput: the 184CB output     False
+          
+**********
+UserInput: the 185User input
+WitOutput: the 185wit output
+DBOutput: the 185DB output
+CBOutput: the 185CB output
+          
+**********
+UserInput: the 186User input
+WitOutput: the 186wit output
+DBOutput: the 186DB output
+CBOutput: the 186CB output     False
+          
+**********
+UserInput: the 187User input
+WitOutput: the 187wit output
+DBOutput: the 187DB output
+CBOutput: the 187CB output
+          
+**********
+UserInput: the 188User input
+WitOutput: the 188wit output
+DBOutput: the 188DB output
+CBOutput: the 188CB output     False
+          
+**********
+UserInput: the 189User input
+WitOutput: the 189wit output
+DBOutput: the 189DB output
+CBOutput: the 189CB output
+          
+**********
+UserInput: the 190User input
+WitOutput: the 190wit output
+DBOutput: the 190DB output
+CBOutput: the 190CB output     False
+          
+**********
+UserInput: the 191User input
+WitOutput: the 191wit output
+DBOutput: the 191DB output
+CBOutput: the 191CB output
+          
+**********
+UserInput: the 192User input
+WitOutput: the 192wit output
+DBOutput: the 192DB output
+CBOutput: the 192CB output     False
+          
+**********
+UserInput: the 193User input
+WitOutput: the 193wit output
+DBOutput: the 193DB output
+CBOutput: the 193CB output
+          
+**********
+UserInput: the 194User input
+WitOutput: the 194wit output
+DBOutput: the 194DB output
+CBOutput: the 194CB output     False
+          
+**********
+UserInput: the 195User input
+WitOutput: the 195wit output
+DBOutput: the 195DB output
+CBOutput: the 195CB output
+          
+**********
+UserInput: the 196User input
+WitOutput: the 196wit output
+DBOutput: the 196DB output
+CBOutput: the 196CB output     False
+          
+**********
+UserInput: the 197User input
+WitOutput: the 197wit output
+DBOutput: the 197DB output
+CBOutput: the 197CB output
+          
+**********
+UserInput: the 198User input
+WitOutput: the 198wit output
+DBOutput: the 198DB output
+CBOutput: the 198CB output     False
+          
+**********
+UserInput: the 199User input
+WitOutput: the 199wit output
+DBOutput: the 199DB output
+CBOutput: the 199CB output
+          
+**********
+UserInput: the 200User input
+WitOutput: the 200wit output
+DBOutput: the 200DB output
+CBOutput: the 200CB output     False
+          
+**********
+UserInput: the 201User input
+WitOutput: the 201wit output
+DBOutput: the 201DB output
+CBOutput: the 201CB output
+          
+**********
+UserInput: the 202User input
+WitOutput: the 202wit output
+DBOutput: the 202DB output
+CBOutput: the 202CB output     False
+          
+**********
+UserInput: the 203User input
+WitOutput: the 203wit output
+DBOutput: the 203DB output
+CBOutput: the 203CB output
+          
+**********
+UserInput: the 204User input
+WitOutput: the 204wit output
+DBOutput: the 204DB output
+CBOutput: the 204CB output     False
+          
+**********
+UserInput: the 205User input
+WitOutput: the 205wit output
+DBOutput: the 205DB output
+CBOutput: the 205CB output
+          
+**********
+UserInput: the 206User input
+WitOutput: the 206wit output
+DBOutput: the 206DB output
+CBOutput: the 206CB output     False
+          
+**********
+UserInput: the 207User input
+WitOutput: the 207wit output
+DBOutput: the 207DB output
+CBOutput: the 207CB output
+          
+**********
+UserInput: the 208User input
+WitOutput: the 208wit output
+DBOutput: the 208DB output
+CBOutput: the 208CB output     False
+          
+**********
+UserInput: the 209User input
+WitOutput: the 209wit output
+DBOutput: the 209DB output
+CBOutput: the 209CB output
+          
+**********
+UserInput: the 210User input
+WitOutput: the 210wit output
+DBOutput: the 210DB output
+CBOutput: the 210CB output     False
+          
+**********
+UserInput: the 211User input
+WitOutput: the 211wit output
+DBOutput: the 211DB output
+CBOutput: the 211CB output
+          
+**********
+UserInput: the 212User input
+WitOutput: the 212wit output
+DBOutput: the 212DB output
+CBOutput: the 212CB output     False
+          
+**********
+UserInput: the 213User input
+WitOutput: the 213wit output
+DBOutput: the 213DB output
+CBOutput: the 213CB output
+          
+**********
+UserInput: the 214User input
+WitOutput: the 214wit output
+DBOutput: the 214DB output
+CBOutput: the 214CB output     False
+          
+**********
+UserInput: the 215User input
+WitOutput: the 215wit output
+DBOutput: the 215DB output
+CBOutput: the 215CB output
+          
+**********
+UserInput: the 216User input
+WitOutput: the 216wit output
+DBOutput: the 216DB output
+CBOutput: the 216CB output     False
+          
+**********
+UserInput: the 217User input
+WitOutput: the 217wit output
+DBOutput: the 217DB output
+CBOutput: the 217CB output
+          
+**********
+UserInput: the 218User input
+WitOutput: the 218wit output
+DBOutput: the 218DB output
+CBOutput: the 218CB output     False
+          
+**********
+UserInput: the 219User input
+WitOutput: the 219wit output
+DBOutput: the 219DB output
+CBOutput: the 219CB output
+          
+**********
+UserInput: the 220User input
+WitOutput: the 220wit output
+DBOutput: the 220DB output
+CBOutput: the 220CB output     False
+          
+**********
+UserInput: the 221User input
+WitOutput: the 221wit output
+DBOutput: the 221DB output
+CBOutput: the 221CB output
+          
+**********
+UserInput: the 222User input
+WitOutput: the 222wit output
+DBOutput: the 222DB output
+CBOutput: the 222CB output     False
+          
+**********
+UserInput: the 223User input
+WitOutput: the 223wit output
+DBOutput: the 223DB output
+CBOutput: the 223CB output
+          
+**********
+UserInput: the 224User input
+WitOutput: the 224wit output
+DBOutput: the 224DB output
+CBOutput: the 224CB output     False
+          
+**********
+UserInput: the 225User input
+WitOutput: the 225wit output
+DBOutput: the 225DB output
+CBOutput: the 225CB output
+          
+**********
+UserInput: the 226User input
+WitOutput: the 226wit output
+DBOutput: the 226DB output
+CBOutput: the 226CB output     False
+          
+**********
+UserInput: the 227User input
+WitOutput: the 227wit output
+DBOutput: the 227DB output
+CBOutput: the 227CB output
+          
+**********
+UserInput: the 228User input
+WitOutput: the 228wit output
+DBOutput: the 228DB output
+CBOutput: the 228CB output     False
+          
+**********
+UserInput: the 229User input
+WitOutput: the 229wit output
+DBOutput: the 229DB output
+CBOutput: the 229CB output
+          
+**********
+UserInput: the 230User input
+WitOutput: the 230wit output
+DBOutput: the 230DB output
+CBOutput: the 230CB output     False
+          
+**********
+UserInput: the 231User input
+WitOutput: the 231wit output
+DBOutput: the 231DB output
+CBOutput: the 231CB output
+          
+**********
+UserInput: the 232User input
+WitOutput: the 232wit output
+DBOutput: the 232DB output
+CBOutput: the 232CB output     False
+          
+**********
+UserInput: the 233User input
+WitOutput: the 233wit output
+DBOutput: the 233DB output
+CBOutput: the 233CB output
+          
+**********
+UserInput: the 234User input
+WitOutput: the 234wit output
+DBOutput: the 234DB output
+CBOutput: the 234CB output     False
+          
+**********
+UserInput: the 235User input
+WitOutput: the 235wit output
+DBOutput: the 235DB output
+CBOutput: the 235CB output
+          
+**********
+UserInput: the 236User input
+WitOutput: the 236wit output
+DBOutput: the 236DB output
+CBOutput: the 236CB output     False
+          
+**********
+UserInput: the 237User input
+WitOutput: the 237wit output
+DBOutput: the 237DB output
+CBOutput: the 237CB output
+          
+**********
+UserInput: the 238User input
+WitOutput: the 238wit output
+DBOutput: the 238DB output
+CBOutput: the 238CB output     False
+          
+**********
+UserInput: the 239User input
+WitOutput: the 239wit output
+DBOutput: the 239DB output
+CBOutput: the 239CB output
+          
+**********
+UserInput: the 240User input
+WitOutput: the 240wit output
+DBOutput: the 240DB output
+CBOutput: the 240CB output     False
+          
+**********
+UserInput: the 241User input
+WitOutput: the 241wit output
+DBOutput: the 241DB output
+CBOutput: the 241CB output
+          
+**********
+UserInput: the 242User input
+WitOutput: the 242wit output
+DBOutput: the 242DB output
+CBOutput: the 242CB output     False
+          
+**********
+UserInput: the 243User input
+WitOutput: the 243wit output
+DBOutput: the 243DB output
+CBOutput: the 243CB output
+          
+**********
+UserInput: the 244User input
+WitOutput: the 244wit output
+DBOutput: the 244DB output
+CBOutput: the 244CB output     False
+          
+**********
+UserInput: the 245User input
+WitOutput: the 245wit output
+DBOutput: the 245DB output
+CBOutput: the 245CB output
+          
+**********
+UserInput: the 246User input
+WitOutput: the 246wit output
+DBOutput: the 246DB output
+CBOutput: the 246CB output     False
+          
+**********
+UserInput: the 247User input
+WitOutput: the 247wit output
+DBOutput: the 247DB output
+CBOutput: the 247CB output
+          
+**********
+UserInput: the 248User input
+WitOutput: the 248wit output
+DBOutput: the 248DB output
+CBOutput: the 248CB output     False
+          
+**********
+UserInput: the 249User input
+WitOutput: the 249wit output
+DBOutput: the 249DB output
+CBOutput: the 249CB output
+          
+**********
+UserInput: the 250User input
+WitOutput: the 250wit output
+DBOutput: the 250DB output
+CBOutput: the 250CB output     False
+          
+**********
+UserInput: the 251User input
+WitOutput: the 251wit output
+DBOutput: the 251DB output
+CBOutput: the 251CB output
+          
+**********
+UserInput: the 252User input
+WitOutput: the 252wit output
+DBOutput: the 252DB output
+CBOutput: the 252CB output     False
+          
+**********
+UserInput: the 253User input
+WitOutput: the 253wit output
+DBOutput: the 253DB output
+CBOutput: the 253CB output
+          
+**********
+UserInput: the 254User input
+WitOutput: the 254wit output
+DBOutput: the 254DB output
+CBOutput: the 254CB output     False
+          
+**********
+UserInput: the 255User input
+WitOutput: the 255wit output
+DBOutput: the 255DB output
+CBOutput: the 255CB output
+          
+**********
+UserInput: the 256User input
+WitOutput: the 256wit output
+DBOutput: the 256DB output
+CBOutput: the 256CB output     False
+          
+**********
+UserInput: the 257User input
+WitOutput: the 257wit output
+DBOutput: the 257DB output
+CBOutput: the 257CB output
+          
+**********
+UserInput: the 258User input
+WitOutput: the 258wit output
+DBOutput: the 258DB output
+CBOutput: the 258CB output     False
+          
+**********
+UserInput: the 259User input
+WitOutput: the 259wit output
+DBOutput: the 259DB output
+CBOutput: the 259CB output
+          
+**********
+UserInput: the 260User input
+WitOutput: the 260wit output
+DBOutput: the 260DB output
+CBOutput: the 260CB output     False
+          
+**********
+UserInput: the 261User input
+WitOutput: the 261wit output
+DBOutput: the 261DB output
+CBOutput: the 261CB output
+          
+**********
+UserInput: the 262User input
+WitOutput: the 262wit output
+DBOutput: the 262DB output
+CBOutput: the 262CB output     False
+          
+**********
+UserInput: the 263User input
+WitOutput: the 263wit output
+DBOutput: the 263DB output
+CBOutput: the 263CB output
+          
+**********
+UserInput: the 264User input
+WitOutput: the 264wit output
+DBOutput: the 264DB output
+CBOutput: the 264CB output     False
+          
+**********
+UserInput: the 265User input
+WitOutput: the 265wit output
+DBOutput: the 265DB output
+CBOutput: the 265CB output
+          
+**********
+UserInput: the 266User input
+WitOutput: the 266wit output
+DBOutput: the 266DB output
+CBOutput: the 266CB output     False
+          
+**********
+UserInput: the 267User input
+WitOutput: the 267wit output
+DBOutput: the 267DB output
+CBOutput: the 267CB output
+          
+**********
+UserInput: the 268User input
+WitOutput: the 268wit output
+DBOutput: the 268DB output
+CBOutput: the 268CB output     False
+          
+**********
+UserInput: the 269User input
+WitOutput: the 269wit output
+DBOutput: the 269DB output
+CBOutput: the 269CB output
+          
+**********
+UserInput: the 270User input
+WitOutput: the 270wit output
+DBOutput: the 270DB output
+CBOutput: the 270CB output     False
+          
+**********
+UserInput: the 271User input
+WitOutput: the 271wit output
+DBOutput: the 271DB output
+CBOutput: the 271CB output
+          
+**********
+UserInput: the 272User input
+WitOutput: the 272wit output
+DBOutput: the 272DB output
+CBOutput: the 272CB output     False
+          
+**********
+UserInput: the 273User input
+WitOutput: the 273wit output
+DBOutput: the 273DB output
+CBOutput: the 273CB output
+          
+**********
+UserInput: the 274User input
+WitOutput: the 274wit output
+DBOutput: the 274DB output
+CBOutput: the 274CB output     False
+          
+**********
+UserInput: the 275User input
+WitOutput: the 275wit output
+DBOutput: the 275DB output
+CBOutput: the 275CB output
+          
+**********
+UserInput: the 276User input
+WitOutput: the 276wit output
+DBOutput: the 276DB output
+CBOutput: the 276CB output     False
+          
+**********
+UserInput: the 277User input
+WitOutput: the 277wit output
+DBOutput: the 277DB output
+CBOutput: the 277CB output
+          
+**********
+UserInput: the 278User input
+WitOutput: the 278wit output
+DBOutput: the 278DB output
+CBOutput: the 278CB output     False
+          
+**********
+UserInput: the 279User input
+WitOutput: the 279wit output
+DBOutput: the 279DB output
+CBOutput: the 279CB output
+          
+**********
+UserInput: the 280User input
+WitOutput: the 280wit output
+DBOutput: the 280DB output
+CBOutput: the 280CB output     False
+          
+**********
+UserInput: the 281User input
+WitOutput: the 281wit output
+DBOutput: the 281DB output
+CBOutput: the 281CB output
+          
+**********
+UserInput: the 282User input
+WitOutput: the 282wit output
+DBOutput: the 282DB output
+CBOutput: the 282CB output     False
+          
+**********
+UserInput: the 283User input
+WitOutput: the 283wit output
+DBOutput: the 283DB output
+CBOutput: the 283CB output
+          
+**********
+UserInput: the 284User input
+WitOutput: the 284wit output
+DBOutput: the 284DB output
+CBOutput: the 284CB output     False
+          
+**********
+UserInput: the 285User input
+WitOutput: the 285wit output
+DBOutput: the 285DB output
+CBOutput: the 285CB output
+          
+**********
+UserInput: the 286User input
+WitOutput: the 286wit output
+DBOutput: the 286DB output
+CBOutput: the 286CB output     False
+          
+**********
+UserInput: the 287User input
+WitOutput: the 287wit output
+DBOutput: the 287DB output
+CBOutput: the 287CB output
+          
+**********
+UserInput: the 288User input
+WitOutput: the 288wit output
+DBOutput: the 288DB output
+CBOutput: the 288CB output     False
+          
+**********
+UserInput: the 289User input
+WitOutput: the 289wit output
+DBOutput: the 289DB output
+CBOutput: the 289CB output
+          
+**********
+UserInput: the 290User input
+WitOutput: the 290wit output
+DBOutput: the 290DB output
+CBOutput: the 290CB output     False
+          
+**********
+UserInput: the 291User input
+WitOutput: the 291wit output
+DBOutput: the 291DB output
+CBOutput: the 291CB output
+          
+**********
+UserInput: the 292User input
+WitOutput: the 292wit output
+DBOutput: the 292DB output
+CBOutput: the 292CB output     False
+          
+**********
+UserInput: the 293User input
+WitOutput: the 293wit output
+DBOutput: the 293DB output
+CBOutput: the 293CB output
+          
+**********
+UserInput: the 294User input
+WitOutput: the 294wit output
+DBOutput: the 294DB output
+CBOutput: the 294CB output     False
+          
+**********
+UserInput: the 295User input
+WitOutput: the 295wit output
+DBOutput: the 295DB output
+CBOutput: the 295CB output
+          
+**********
+UserInput: the 296User input
+WitOutput: the 296wit output
+DBOutput: the 296DB output
+CBOutput: the 296CB output     False
+          
+**********
+UserInput: the 297User input
+WitOutput: the 297wit output
+DBOutput: the 297DB output
+CBOutput: the 297CB output
+          
+**********
+UserInput: the 298User input
+WitOutput: the 298wit output
+DBOutput: the 298DB output
+CBOutput: the 298CB output     False
+          
+**********
+UserInput: the 299User input
+WitOutput: the 299wit output
+DBOutput: the 299DB output
+CBOutput: the 299CB output
+          
+**********
+UserInput: the 300User input
+WitOutput: the 300wit output
+DBOutput: the 300DB output
+CBOutput: the 300CB output     False
+          
+**********
+UserInput: the 301User input
+WitOutput: the 301wit output
+DBOutput: the 301DB output
+CBOutput: the 301CB output
+          
+**********
+UserInput: the 302User input
+WitOutput: the 302wit output
+DBOutput: the 302DB output
+CBOutput: the 302CB output     False
+          
+**********
+UserInput: the 303User input
+WitOutput: the 303wit output
+DBOutput: the 303DB output
+CBOutput: the 303CB output
+          
+**********
+UserInput: the 304User input
+WitOutput: the 304wit output
+DBOutput: the 304DB output
+CBOutput: the 304CB output     False
+          
+**********
+UserInput: the 305User input
+WitOutput: the 305wit output
+DBOutput: the 305DB output
+CBOutput: the 305CB output
+          
+**********
+UserInput: the 306User input
+WitOutput: the 306wit output
+DBOutput: the 306DB output
+CBOutput: the 306CB output     False
+          
+**********
+UserInput: the 307User input
+WitOutput: the 307wit output
+DBOutput: the 307DB output
+CBOutput: the 307CB output
+          
+**********
+UserInput: the 308User input
+WitOutput: the 308wit output
+DBOutput: the 308DB output
+CBOutput: the 308CB output     False
+          
+**********
+UserInput: the 309User input
+WitOutput: the 309wit output
+DBOutput: the 309DB output
+CBOutput: the 309CB output
+          
+**********
+UserInput: the 310User input
+WitOutput: the 310wit output
+DBOutput: the 310DB output
+CBOutput: the 310CB output     False
+          
+**********
+UserInput: the 311User input
+WitOutput: the 311wit output
+DBOutput: the 311DB output
+CBOutput: the 311CB output
+          
+**********
+UserInput: the 312User input
+WitOutput: the 312wit output
+DBOutput: the 312DB output
+CBOutput: the 312CB output     False
+          
+**********
+UserInput: the 313User input
+WitOutput: the 313wit output
+DBOutput: the 313DB output
+CBOutput: the 313CB output
+          
+**********
+UserInput: the 314User input
+WitOutput: the 314wit output
+DBOutput: the 314DB output
+CBOutput: the 314CB output     False
+          
+**********
+UserInput: the 315User input
+WitOutput: the 315wit output
+DBOutput: the 315DB output
+CBOutput: the 315CB output
+          
+**********
+UserInput: the 316User input
+WitOutput: the 316wit output
+DBOutput: the 316DB output
+CBOutput: the 316CB output     False
+          
+**********
+UserInput: the 317User input
+WitOutput: the 317wit output
+DBOutput: the 317DB output
+CBOutput: the 317CB output
+          
+**********
+UserInput: the 318User input
+WitOutput: the 318wit output
+DBOutput: the 318DB output
+CBOutput: the 318CB output     False
+          
+**********
+UserInput: the 319User input
+WitOutput: the 319wit output
+DBOutput: the 319DB output
+CBOutput: the 319CB output
+          
+**********
+UserInput: the 320User input
+WitOutput: the 320wit output
+DBOutput: the 320DB output
+CBOutput: the 320CB output     False
+          
+**********
+UserInput: the 321User input
+WitOutput: the 321wit output
+DBOutput: the 321DB output
+CBOutput: the 321CB output
+          
+**********
+UserInput: the 322User input
+WitOutput: the 322wit output
+DBOutput: the 322DB output
+CBOutput: the 322CB output     False
+          
+**********
+UserInput: the 323User input
+WitOutput: the 323wit output
+DBOutput: the 323DB output
+CBOutput: the 323CB output
+          
+**********
+UserInput: the 324User input
+WitOutput: the 324wit output
+DBOutput: the 324DB output
+CBOutput: the 324CB output     False
+          
+**********
+UserInput: the 325User input
+WitOutput: the 325wit output
+DBOutput: the 325DB output
+CBOutput: the 325CB output
+          
+**********
+UserInput: the 326User input
+WitOutput: the 326wit output
+DBOutput: the 326DB output
+CBOutput: the 326CB output     False
+          
+**********
+UserInput: the 327User input
+WitOutput: the 327wit output
+DBOutput: the 327DB output
+CBOutput: the 327CB output
+          
+**********
+UserInput: the 328User input
+WitOutput: the 328wit output
+DBOutput: the 328DB output
+CBOutput: the 328CB output     False
+          
+**********
+UserInput: the 329User input
+WitOutput: the 329wit output
+DBOutput: the 329DB output
+CBOutput: the 329CB output
+          
+**********
+UserInput: the 330User input
+WitOutput: the 330wit output
+DBOutput: the 330DB output
+CBOutput: the 330CB output     False
+          
+**********
+UserInput: the 331User input
+WitOutput: the 331wit output
+DBOutput: the 331DB output
+CBOutput: the 331CB output
+          
+**********
+UserInput: the 332User input
+WitOutput: the 332wit output
+DBOutput: the 332DB output
+CBOutput: the 332CB output     False
+          
+**********
+UserInput: the 333User input
+WitOutput: the 333wit output
+DBOutput: the 333DB output
+CBOutput: the 333CB output
+          
+**********
+UserInput: the 334User input
+WitOutput: the 334wit output
+DBOutput: the 334DB output
+CBOutput: the 334CB output     False
+          
+**********
+UserInput: the 335User input
+WitOutput: the 335wit output
+DBOutput: the 335DB output
+CBOutput: the 335CB output
+          
+**********
+UserInput: the 336User input
+WitOutput: the 336wit output
+DBOutput: the 336DB output
+CBOutput: the 336CB output     False
+          
+**********
+UserInput: the 337User input
+WitOutput: the 337wit output
+DBOutput: the 337DB output
+CBOutput: the 337CB output
+          
+**********
+UserInput: the 338User input
+WitOutput: the 338wit output
+DBOutput: the 338DB output
+CBOutput: the 338CB output     False
+          
+**********
+UserInput: the 339User input
+WitOutput: the 339wit output
+DBOutput: the 339DB output
+CBOutput: the 339CB output
+          
+**********
+UserInput: the 340User input
+WitOutput: the 340wit output
+DBOutput: the 340DB output
+CBOutput: the 340CB output     False
+          
+**********
+UserInput: the 341User input
+WitOutput: the 341wit output
+DBOutput: the 341DB output
+CBOutput: the 341CB output
+          
+**********
+UserInput: the 342User input
+WitOutput: the 342wit output
+DBOutput: the 342DB output
+CBOutput: the 342CB output     False
+          
+**********
+UserInput: the 343User input
+WitOutput: the 343wit output
+DBOutput: the 343DB output
+CBOutput: the 343CB output
+          
+**********
+UserInput: the 344User input
+WitOutput: the 344wit output
+DBOutput: the 344DB output
+CBOutput: the 344CB output     False
+          
+**********
+UserInput: the 345User input
+WitOutput: the 345wit output
+DBOutput: the 345DB output
+CBOutput: the 345CB output
+          
+**********
+UserInput: the 346User input
+WitOutput: the 346wit output
+DBOutput: the 346DB output
+CBOutput: the 346CB output     False
+          
+**********
+UserInput: the 347User input
+WitOutput: the 347wit output
+DBOutput: the 347DB output
+CBOutput: the 347CB output
+          
+**********
+UserInput: the 348User input
+WitOutput: the 348wit output
+DBOutput: the 348DB output
+CBOutput: the 348CB output     False
+          
+**********
+UserInput: the 349User input
+WitOutput: the 349wit output
+DBOutput: the 349DB output
+CBOutput: the 349CB output
+          
+**********
+UserInput: the 350User input
+WitOutput: the 350wit output
+DBOutput: the 350DB output
+CBOutput: the 350CB output     False
+          
+**********
+UserInput: the 351User input
+WitOutput: the 351wit output
+DBOutput: the 351DB output
+CBOutput: the 351CB output
+          
+**********
+UserInput: the 352User input
+WitOutput: the 352wit output
+DBOutput: the 352DB output
+CBOutput: the 352CB output     False
+          
+**********
+UserInput: the 353User input
+WitOutput: the 353wit output
+DBOutput: the 353DB output
+CBOutput: the 353CB output
+          
+**********
+UserInput: the 354User input
+WitOutput: the 354wit output
+DBOutput: the 354DB output
+CBOutput: the 354CB output     False
+          
+**********
+UserInput: the 355User input
+WitOutput: the 355wit output
+DBOutput: the 355DB output
+CBOutput: the 355CB output
+          
+**********
+UserInput: the 356User input
+WitOutput: the 356wit output
+DBOutput: the 356DB output
+CBOutput: the 356CB output     False
+          
+**********
+UserInput: the 357User input
+WitOutput: the 357wit output
+DBOutput: the 357DB output
+CBOutput: the 357CB output
+          
+**********
+UserInput: the 358User input
+WitOutput: the 358wit output
+DBOutput: the 358DB output
+CBOutput: the 358CB output     False
+          
+**********
+UserInput: the 359User input
+WitOutput: the 359wit output
+DBOutput: the 359DB output
+CBOutput: the 359CB output
+          
+**********
+UserInput: the 360User input
+WitOutput: the 360wit output
+DBOutput: the 360DB output
+CBOutput: the 360CB output     False
+          
+**********
+UserInput: the 361User input
+WitOutput: the 361wit output
+DBOutput: the 361DB output
+CBOutput: the 361CB output
+          
+**********
+UserInput: the 362User input
+WitOutput: the 362wit output
+DBOutput: the 362DB output
+CBOutput: the 362CB output     False
+          
+**********
+UserInput: the 363User input
+WitOutput: the 363wit output
+DBOutput: the 363DB output
+CBOutput: the 363CB output
+          
+**********
+UserInput: the 364User input
+WitOutput: the 364wit output
+DBOutput: the 364DB output
+CBOutput: the 364CB output     False
+          
+**********
+UserInput: the 365User input
+WitOutput: the 365wit output
+DBOutput: the 365DB output
+CBOutput: the 365CB output
+          
+**********
+UserInput: the 366User input
+WitOutput: the 366wit output
+DBOutput: the 366DB output
+CBOutput: the 366CB output     False
+          
+**********
+UserInput: the 367User input
+WitOutput: the 367wit output
+DBOutput: the 367DB output
+CBOutput: the 367CB output
+          
+**********
+UserInput: the 368User input
+WitOutput: the 368wit output
+DBOutput: the 368DB output
+CBOutput: the 368CB output     False
+          
+**********
+UserInput: the 369User input
+WitOutput: the 369wit output
+DBOutput: the 369DB output
+CBOutput: the 369CB output
+          
+**********
+UserInput: the 370User input
+WitOutput: the 370wit output
+DBOutput: the 370DB output
+CBOutput: the 370CB output     False
+          
+**********
+UserInput: the 371User input
+WitOutput: the 371wit output
+DBOutput: the 371DB output
+CBOutput: the 371CB output
+          
+**********
+UserInput: the 372User input
+WitOutput: the 372wit output
+DBOutput: the 372DB output
+CBOutput: the 372CB output     False
+          
+**********
+UserInput: the 373User input
+WitOutput: the 373wit output
+DBOutput: the 373DB output
+CBOutput: the 373CB output
+          
+**********
+UserInput: the 374User input
+WitOutput: the 374wit output
+DBOutput: the 374DB output
+CBOutput: the 374CB output     False
+          
+**********
+UserInput: the 375User input
+WitOutput: the 375wit output
+DBOutput: the 375DB output
+CBOutput: the 375CB output
+          
+**********
+UserInput: the 376User input
+WitOutput: the 376wit output
+DBOutput: the 376DB output
+CBOutput: the 376CB output     False
+          
+**********
+UserInput: the 377User input
+WitOutput: the 377wit output
+DBOutput: the 377DB output
+CBOutput: the 377CB output
+          
+**********
+UserInput: the 378User input
+WitOutput: the 378wit output
+DBOutput: the 378DB output
+CBOutput: the 378CB output     False
+          
+**********
+UserInput: the 379User input
+WitOutput: the 379wit output
+DBOutput: the 379DB output
+CBOutput: the 379CB output
+          
+**********
+UserInput: the 380User input
+WitOutput: the 380wit output
+DBOutput: the 380DB output
+CBOutput: the 380CB output     False
+          
+**********
+UserInput: the 381User input
+WitOutput: the 381wit output
+DBOutput: the 381DB output
+CBOutput: the 381CB output
+          
+**********
+UserInput: the 382User input
+WitOutput: the 382wit output
+DBOutput: the 382DB output
+CBOutput: the 382CB output     False
+          
+**********
+UserInput: the 383User input
+WitOutput: the 383wit output
+DBOutput: the 383DB output
+CBOutput: the 383CB output
+          
+**********
+UserInput: the 384User input
+WitOutput: the 384wit output
+DBOutput: the 384DB output
+CBOutput: the 384CB output     False
+          
+**********
+UserInput: the 385User input
+WitOutput: the 385wit output
+DBOutput: the 385DB output
+CBOutput: the 385CB output
+          
+**********
+UserInput: the 386User input
+WitOutput: the 386wit output
+DBOutput: the 386DB output
+CBOutput: the 386CB output     False
+          
+**********
+UserInput: the 387User input
+WitOutput: the 387wit output
+DBOutput: the 387DB output
+CBOutput: the 387CB output
+          
+**********
+UserInput: the 388User input
+WitOutput: the 388wit output
+DBOutput: the 388DB output
+CBOutput: the 388CB output     False
+          
+**********
+UserInput: the 389User input
+WitOutput: the 389wit output
+DBOutput: the 389DB output
+CBOutput: the 389CB output
+          
+**********
+UserInput: the 390User input
+WitOutput: the 390wit output
+DBOutput: the 390DB output
+CBOutput: the 390CB output     False
+          
+**********
+UserInput: the 391User input
+WitOutput: the 391wit output
+DBOutput: the 391DB output
+CBOutput: the 391CB output
+          
+**********
+UserInput: the 392User input
+WitOutput: the 392wit output
+DBOutput: the 392DB output
+CBOutput: the 392CB output     False
+          
+**********
+UserInput: the 393User input
+WitOutput: the 393wit output
+DBOutput: the 393DB output
+CBOutput: the 393CB output
+          
+**********
+UserInput: the 394User input
+WitOutput: the 394wit output
+DBOutput: the 394DB output
+CBOutput: the 394CB output     False
+          
+**********
+UserInput: the 395User input
+WitOutput: the 395wit output
+DBOutput: the 395DB output
+CBOutput: the 395CB output
+          
+**********
+UserInput: the 396User input
+WitOutput: the 396wit output
+DBOutput: the 396DB output
+CBOutput: the 396CB output     False
+          
+**********
+UserInput: the 397User input
+WitOutput: the 397wit output
+DBOutput: the 397DB output
+CBOutput: the 397CB output
+          
+**********
+UserInput: the 398User input
+WitOutput: the 398wit output
+DBOutput: the 398DB output
+CBOutput: the 398CB output     False
+          
+**********
+UserInput: the 399User input
+WitOutput: the 399wit output
+DBOutput: the 399DB output
+CBOutput: the 399CB output
+          
+**********
+UserInput: the 400User input
+WitOutput: the 400wit output
+DBOutput: the 400DB output
+CBOutput: the 400CB output     False
+          
+**********
+UserInput: the 401User input
+WitOutput: the 401wit output
+DBOutput: the 401DB output
+CBOutput: the 401CB output
+          
+**********
+UserInput: the 402User input
+WitOutput: the 402wit output
+DBOutput: the 402DB output
+CBOutput: the 402CB output     False
+          
+**********
+UserInput: the 403User input
+WitOutput: the 403wit output
+DBOutput: the 403DB output
+CBOutput: the 403CB output
+          
+**********
+UserInput: the 404User input
+WitOutput: the 404wit output
+DBOutput: the 404DB output
+CBOutput: the 404CB output     False
+          
+**********
+UserInput: the 405User input
+WitOutput: the 405wit output
+DBOutput: the 405DB output
+CBOutput: the 405CB output
+          
+**********
+UserInput: the 406User input
+WitOutput: the 406wit output
+DBOutput: the 406DB output
+CBOutput: the 406CB output     False
+          
+**********
+UserInput: the 407User input
+WitOutput: the 407wit output
+DBOutput: the 407DB output
+CBOutput: the 407CB output
+          
+**********
+UserInput: the 408User input
+WitOutput: the 408wit output
+DBOutput: the 408DB output
+CBOutput: the 408CB output     False
+          
+**********
+UserInput: the 409User input
+WitOutput: the 409wit output
+DBOutput: the 409DB output
+CBOutput: the 409CB output
+          
+**********
+UserInput: the 410User input
+WitOutput: the 410wit output
+DBOutput: the 410DB output
+CBOutput: the 410CB output     False
+          
+**********
+UserInput: the 411User input
+WitOutput: the 411wit output
+DBOutput: the 411DB output
+CBOutput: the 411CB output
+          
+**********
+UserInput: the 412User input
+WitOutput: the 412wit output
+DBOutput: the 412DB output
+CBOutput: the 412CB output     False
+          
+**********
+UserInput: the 413User input
+WitOutput: the 413wit output
+DBOutput: the 413DB output
+CBOutput: the 413CB output
+          
+**********
+UserInput: the 414User input
+WitOutput: the 414wit output
+DBOutput: the 414DB output
+CBOutput: the 414CB output     False
+          
+**********
+UserInput: the 415User input
+WitOutput: the 415wit output
+DBOutput: the 415DB output
+CBOutput: the 415CB output
+          
+**********
+UserInput: the 416User input
+WitOutput: the 416wit output
+DBOutput: the 416DB output
+CBOutput: the 416CB output     False
+          
+**********
+UserInput: the 417User input
+WitOutput: the 417wit output
+DBOutput: the 417DB output
+CBOutput: the 417CB output
+          
+**********
+UserInput: the 418User input
+WitOutput: the 418wit output
+DBOutput: the 418DB output
+CBOutput: the 418CB output     False
+          
+**********
+UserInput: the 419User input
+WitOutput: the 419wit output
+DBOutput: the 419DB output
+CBOutput: the 419CB output
+          
+**********
+UserInput: the 420User input
+WitOutput: the 420wit output
+DBOutput: the 420DB output
+CBOutput: the 420CB output     False
+          
+**********
+UserInput: the 421User input
+WitOutput: the 421wit output
+DBOutput: the 421DB output
+CBOutput: the 421CB output
+          
+**********
+UserInput: the 422User input
+WitOutput: the 422wit output
+DBOutput: the 422DB output
+CBOutput: the 422CB output     False
+          
+**********
+UserInput: the 423User input
+WitOutput: the 423wit output
+DBOutput: the 423DB output
+CBOutput: the 423CB output
+          
+**********
+UserInput: the 424User input
+WitOutput: the 424wit output
+DBOutput: the 424DB output
+CBOutput: the 424CB output     False
+          
+**********
+UserInput: the 425User input
+WitOutput: the 425wit output
+DBOutput: the 425DB output
+CBOutput: the 425CB output
+          
+**********
+UserInput: the 426User input
+WitOutput: the 426wit output
+DBOutput: the 426DB output
+CBOutput: the 426CB output     False
+          
+**********
+UserInput: the 427User input
+WitOutput: the 427wit output
+DBOutput: the 427DB output
+CBOutput: the 427CB output
+          
+**********
+UserInput: the 428User input
+WitOutput: the 428wit output
+DBOutput: the 428DB output
+CBOutput: the 428CB output     False
+          
+**********
+UserInput: the 429User input
+WitOutput: the 429wit output
+DBOutput: the 429DB output
+CBOutput: the 429CB output
+          
+**********
+UserInput: the 430User input
+WitOutput: the 430wit output
+DBOutput: the 430DB output
+CBOutput: the 430CB output     False
+          
+**********
+UserInput: the 431User input
+WitOutput: the 431wit output
+DBOutput: the 431DB output
+CBOutput: the 431CB output
+          
+**********
+UserInput: the 432User input
+WitOutput: the 432wit output
+DBOutput: the 432DB output
+CBOutput: the 432CB output     False
+          
+**********
+UserInput: the 433User input
+WitOutput: the 433wit output
+DBOutput: the 433DB output
+CBOutput: the 433CB output
+          
+**********
+UserInput: the 434User input
+WitOutput: the 434wit output
+DBOutput: the 434DB output
+CBOutput: the 434CB output     False
+          
+**********
+UserInput: the 435User input
+WitOutput: the 435wit output
+DBOutput: the 435DB output
+CBOutput: the 435CB output
+          
+**********
+UserInput: the 436User input
+WitOutput: the 436wit output
+DBOutput: the 436DB output
+CBOutput: the 436CB output     False
+          
+**********
+UserInput: the 437User input
+WitOutput: the 437wit output
+DBOutput: the 437DB output
+CBOutput: the 437CB output
+          
+**********
+UserInput: the 438User input
+WitOutput: the 438wit output
+DBOutput: the 438DB output
+CBOutput: the 438CB output     False
+          
+**********
+UserInput: the 439User input
+WitOutput: the 439wit output
+DBOutput: the 439DB output
+CBOutput: the 439CB output
+          
+**********
+UserInput: the 440User input
+WitOutput: the 440wit output
+DBOutput: the 440DB output
+CBOutput: the 440CB output     False
+          
+**********
+UserInput: the 441User input
+WitOutput: the 441wit output
+DBOutput: the 441DB output
+CBOutput: the 441CB output
+          
+**********
+UserInput: the 442User input
+WitOutput: the 442wit output
+DBOutput: the 442DB output
+CBOutput: the 442CB output     False
+          
+**********
+UserInput: the 443User input
+WitOutput: the 443wit output
+DBOutput: the 443DB output
+CBOutput: the 443CB output
+          
+**********
+UserInput: the 444User input
+WitOutput: the 444wit output
+DBOutput: the 444DB output
+CBOutput: the 444CB output     False
+          
+**********
+UserInput: the 445User input
+WitOutput: the 445wit output
+DBOutput: the 445DB output
+CBOutput: the 445CB output
+          
+**********
+UserInput: the 446User input
+WitOutput: the 446wit output
+DBOutput: the 446DB output
+CBOutput: the 446CB output     False
+          
+**********
+UserInput: the 447User input
+WitOutput: the 447wit output
+DBOutput: the 447DB output
+CBOutput: the 447CB output
+          
+**********
+UserInput: the 448User input
+WitOutput: the 448wit output
+DBOutput: the 448DB output
+CBOutput: the 448CB output     False
+          
+**********
+UserInput: the 449User input
+WitOutput: the 449wit output
+DBOutput: the 449DB output
+CBOutput: the 449CB output
+          
+**********
+UserInput: the 450User input
+WitOutput: the 450wit output
+DBOutput: the 450DB output
+CBOutput: the 450CB output     False
+          
+**********
+UserInput: the 451User input
+WitOutput: the 451wit output
+DBOutput: the 451DB output
+CBOutput: the 451CB output
+          
+**********
+UserInput: the 452User input
+WitOutput: the 452wit output
+DBOutput: the 452DB output
+CBOutput: the 452CB output     False
+          
+**********
+UserInput: the 453User input
+WitOutput: the 453wit output
+DBOutput: the 453DB output
+CBOutput: the 453CB output
+          
+**********
+UserInput: the 454User input
+WitOutput: the 454wit output
+DBOutput: the 454DB output
+CBOutput: the 454CB output     False
+          
+**********
+UserInput: the 455User input
+WitOutput: the 455wit output
+DBOutput: the 455DB output
+CBOutput: the 455CB output
+          
+**********
+UserInput: the 456User input
+WitOutput: the 456wit output
+DBOutput: the 456DB output
+CBOutput: the 456CB output     False
+          
+**********
+UserInput: the 457User input
+WitOutput: the 457wit output
+DBOutput: the 457DB output
+CBOutput: the 457CB output
+          
+**********
+UserInput: the 458User input
+WitOutput: the 458wit output
+DBOutput: the 458DB output
+CBOutput: the 458CB output     False
+          
+**********
+UserInput: the 459User input
+WitOutput: the 459wit output
+DBOutput: the 459DB output
+CBOutput: the 459CB output
+          
+**********
+UserInput: the 460User input
+WitOutput: the 460wit output
+DBOutput: the 460DB output
+CBOutput: the 460CB output     False
+          
+**********
+UserInput: the 461User input
+WitOutput: the 461wit output
+DBOutput: the 461DB output
+CBOutput: the 461CB output
+          
+**********
+UserInput: the 462User input
+WitOutput: the 462wit output
+DBOutput: the 462DB output
+CBOutput: the 462CB output     False
+          
+**********
+UserInput: the 463User input
+WitOutput: the 463wit output
+DBOutput: the 463DB output
+CBOutput: the 463CB output
+          
+**********
+UserInput: the 464User input
+WitOutput: the 464wit output
+DBOutput: the 464DB output
+CBOutput: the 464CB output     False
+          
+**********
+UserInput: the 465User input
+WitOutput: the 465wit output
+DBOutput: the 465DB output
+CBOutput: the 465CB output
+          
+**********
+UserInput: the 466User input
+WitOutput: the 466wit output
+DBOutput: the 466DB output
+CBOutput: the 466CB output     False
+          
+**********
+UserInput: the 467User input
+WitOutput: the 467wit output
+DBOutput: the 467DB output
+CBOutput: the 467CB output
+          
+**********
+UserInput: the 468User input
+WitOutput: the 468wit output
+DBOutput: the 468DB output
+CBOutput: the 468CB output     False
+          
+**********
+UserInput: the 469User input
+WitOutput: the 469wit output
+DBOutput: the 469DB output
+CBOutput: the 469CB output
+          
+**********
+UserInput: the 470User input
+WitOutput: the 470wit output
+DBOutput: the 470DB output
+CBOutput: the 470CB output     False
+          
+**********
+UserInput: the 471User input
+WitOutput: the 471wit output
+DBOutput: the 471DB output
+CBOutput: the 471CB output
+          
+**********
+UserInput: the 472User input
+WitOutput: the 472wit output
+DBOutput: the 472DB output
+CBOutput: the 472CB output     False
+          
+**********
+UserInput: the 473User input
+WitOutput: the 473wit output
+DBOutput: the 473DB output
+CBOutput: the 473CB output
+          
+**********
+UserInput: the 474User input
+WitOutput: the 474wit output
+DBOutput: the 474DB output
+CBOutput: the 474CB output     False
+          
+**********
+UserInput: the 475User input
+WitOutput: the 475wit output
+DBOutput: the 475DB output
+CBOutput: the 475CB output
+          
+**********
+UserInput: the 476User input
+WitOutput: the 476wit output
+DBOutput: the 476DB output
+CBOutput: the 476CB output     False
+          
+**********
+UserInput: the 477User input
+WitOutput: the 477wit output
+DBOutput: the 477DB output
+CBOutput: the 477CB output
+          
+**********
+UserInput: the 478User input
+WitOutput: the 478wit output
+DBOutput: the 478DB output
+CBOutput: the 478CB output     False
+          
+**********
+UserInput: the 479User input
+WitOutput: the 479wit output
+DBOutput: the 479DB output
+CBOutput: the 479CB output
+          
+**********
+UserInput: the 480User input
+WitOutput: the 480wit output
+DBOutput: the 480DB output
+CBOutput: the 480CB output     False
+          
+**********
+UserInput: the 481User input
+WitOutput: the 481wit output
+DBOutput: the 481DB output
+CBOutput: the 481CB output
+          
+**********
+UserInput: the 482User input
+WitOutput: the 482wit output
+DBOutput: the 482DB output
+CBOutput: the 482CB output     False
+          
+**********
+UserInput: the 483User input
+WitOutput: the 483wit output
+DBOutput: the 483DB output
+CBOutput: the 483CB output
+          
+**********
+UserInput: the 484User input
+WitOutput: the 484wit output
+DBOutput: the 484DB output
+CBOutput: the 484CB output     False
+          
+**********
+UserInput: the 485User input
+WitOutput: the 485wit output
+DBOutput: the 485DB output
+CBOutput: the 485CB output
+          
+**********
+UserInput: the 486User input
+WitOutput: the 486wit output
+DBOutput: the 486DB output
+CBOutput: the 486CB output     False
+          
+**********
+UserInput: the 487User input
+WitOutput: the 487wit output
+DBOutput: the 487DB output
+CBOutput: the 487CB output
+          
+**********
+UserInput: the 488User input
+WitOutput: the 488wit output
+DBOutput: the 488DB output
+CBOutput: the 488CB output     False
+          
+**********
+UserInput: the 489User input
+WitOutput: the 489wit output
+DBOutput: the 489DB output
+CBOutput: the 489CB output
+          
+**********
+UserInput: the 490User input
+WitOutput: the 490wit output
+DBOutput: the 490DB output
+CBOutput: the 490CB output     False
+          
+**********
+UserInput: the 491User input
+WitOutput: the 491wit output
+DBOutput: the 491DB output
+CBOutput: the 491CB output
+          
+**********
+UserInput: the 492User input
+WitOutput: the 492wit output
+DBOutput: the 492DB output
+CBOutput: the 492CB output     False
+          
+**********
+UserInput: the 493User input
+WitOutput: the 493wit output
+DBOutput: the 493DB output
+CBOutput: the 493CB output
+          
+**********
+UserInput: the 494User input
+WitOutput: the 494wit output
+DBOutput: the 494DB output
+CBOutput: the 494CB output     False
+          
+**********
+UserInput: the 495User input
+WitOutput: the 495wit output
+DBOutput: the 495DB output
+CBOutput: the 495CB output
+          
+**********
+UserInput: the 496User input
+WitOutput: the 496wit output
+DBOutput: the 496DB output
+CBOutput: the 496CB output     False
+          
+**********
+UserInput: the 497User input
+WitOutput: the 497wit output
+DBOutput: the 497DB output
+CBOutput: the 497CB output
+          
+**********
+UserInput: the 498User input
+WitOutput: the 498wit output
+DBOutput: the 498DB output
+CBOutput: the 498CB output     False
+          
+**********
+UserInput: the 499User input
+WitOutput: the 499wit output
+DBOutput: the 499DB output
+CBOutput: the 499CB output
+          
+**********
+UserInput: the 500User input
+WitOutput: the 500wit output
+DBOutput: the 500DB output
+CBOutput: the 500CB output     False
+          
+**********
+UserInput: the 501User input
+WitOutput: the 501wit output
+DBOutput: the 501DB output
+CBOutput: the 501CB output
+          
+**********
+UserInput: the 502User input
+WitOutput: the 502wit output
+DBOutput: the 502DB output
+CBOutput: the 502CB output     False
+          
+**********
+UserInput: the 503User input
+WitOutput: the 503wit output
+DBOutput: the 503DB output
+CBOutput: the 503CB output
+          
+**********
+UserInput: the 504User input
+WitOutput: the 504wit output
+DBOutput: the 504DB output
+CBOutput: the 504CB output     False
+          
+**********
+UserInput: the 505User input
+WitOutput: the 505wit output
+DBOutput: the 505DB output
+CBOutput: the 505CB output
+          
+**********
+UserInput: the 506User input
+WitOutput: the 506wit output
+DBOutput: the 506DB output
+CBOutput: the 506CB output     False
+          
+**********
+UserInput: the 507User input
+WitOutput: the 507wit output
+DBOutput: the 507DB output
+CBOutput: the 507CB output
+          
+**********
+UserInput: the 508User input
+WitOutput: the 508wit output
+DBOutput: the 508DB output
+CBOutput: the 508CB output     False
+          
+**********
+UserInput: the 509User input
+WitOutput: the 509wit output
+DBOutput: the 509DB output
+CBOutput: the 509CB output
+          
+**********
+UserInput: the 510User input
+WitOutput: the 510wit output
+DBOutput: the 510DB output
+CBOutput: the 510CB output     False
+          
+**********
+UserInput: the 511User input
+WitOutput: the 511wit output
+DBOutput: the 511DB output
+CBOutput: the 511CB output
+          
+**********
+UserInput: the 512User input
+WitOutput: the 512wit output
+DBOutput: the 512DB output
+CBOutput: the 512CB output     False
+          
+**********
+UserInput: the 513User input
+WitOutput: the 513wit output
+DBOutput: the 513DB output
+CBOutput: the 513CB output
+          
+**********
+UserInput: the 514User input
+WitOutput: the 514wit output
+DBOutput: the 514DB output
+CBOutput: the 514CB output     False
+          
+**********
+UserInput: the 515User input
+WitOutput: the 515wit output
+DBOutput: the 515DB output
+CBOutput: the 515CB output
+          
+**********
+UserInput: the 516User input
+WitOutput: the 516wit output
+DBOutput: the 516DB output
+CBOutput: the 516CB output     False
+          
+**********
+UserInput: the 517User input
+WitOutput: the 517wit output
+DBOutput: the 517DB output
+CBOutput: the 517CB output
+          
+**********
+UserInput: the 518User input
+WitOutput: the 518wit output
+DBOutput: the 518DB output
+CBOutput: the 518CB output     False
+          
+**********
+UserInput: the 519User input
+WitOutput: the 519wit output
+DBOutput: the 519DB output
+CBOutput: the 519CB output
+          
+**********
+UserInput: the 520User input
+WitOutput: the 520wit output
+DBOutput: the 520DB output
+CBOutput: the 520CB output     False
+          
+**********
+UserInput: the 521User input
+WitOutput: the 521wit output
+DBOutput: the 521DB output
+CBOutput: the 521CB output
+          
+**********
+UserInput: the 522User input
+WitOutput: the 522wit output
+DBOutput: the 522DB output
+CBOutput: the 522CB output     False
+          
+**********
+UserInput: the 523User input
+WitOutput: the 523wit output
+DBOutput: the 523DB output
+CBOutput: the 523CB output
+          
+**********
+UserInput: the 524User input
+WitOutput: the 524wit output
+DBOutput: the 524DB output
+CBOutput: the 524CB output     False
+          
+**********
+UserInput: the 525User input
+WitOutput: the 525wit output
+DBOutput: the 525DB output
+CBOutput: the 525CB output
+          
+**********
+UserInput: the 526User input
+WitOutput: the 526wit output
+DBOutput: the 526DB output
+CBOutput: the 526CB output     False
+          
+**********
+UserInput: the 527User input
+WitOutput: the 527wit output
+DBOutput: the 527DB output
+CBOutput: the 527CB output
+          
+**********
+UserInput: the 528User input
+WitOutput: the 528wit output
+DBOutput: the 528DB output
+CBOutput: the 528CB output     False
+          
+**********
+UserInput: the 529User input
+WitOutput: the 529wit output
+DBOutput: the 529DB output
+CBOutput: the 529CB output
+          
+**********
+UserInput: the 530User input
+WitOutput: the 530wit output
+DBOutput: the 530DB output
+CBOutput: the 530CB output     False
+          
+**********
+UserInput: the 531User input
+WitOutput: the 531wit output
+DBOutput: the 531DB output
+CBOutput: the 531CB output
+          
+**********
+UserInput: the 532User input
+WitOutput: the 532wit output
+DBOutput: the 532DB output
+CBOutput: the 532CB output     False
+          
+**********
+UserInput: the 533User input
+WitOutput: the 533wit output
+DBOutput: the 533DB output
+CBOutput: the 533CB output
+          
+**********
+UserInput: the 534User input
+WitOutput: the 534wit output
+DBOutput: the 534DB output
+CBOutput: the 534CB output     False
+          
+**********
+UserInput: the 535User input
+WitOutput: the 535wit output
+DBOutput: the 535DB output
+CBOutput: the 535CB output
+          
+**********
+UserInput: the 536User input
+WitOutput: the 536wit output
+DBOutput: the 536DB output
+CBOutput: the 536CB output     False
+          
+**********
+UserInput: the 537User input
+WitOutput: the 537wit output
+DBOutput: the 537DB output
+CBOutput: the 537CB output
+          
+**********
+UserInput: the 538User input
+WitOutput: the 538wit output
+DBOutput: the 538DB output
+CBOutput: the 538CB output     False
+          
+**********
+UserInput: the 539User input
+WitOutput: the 539wit output
+DBOutput: the 539DB output
+CBOutput: the 539CB output
+          
+**********
+UserInput: the 540User input
+WitOutput: the 540wit output
+DBOutput: the 540DB output
+CBOutput: the 540CB output     False
+          
+**********
+UserInput: the 541User input
+WitOutput: the 541wit output
+DBOutput: the 541DB output
+CBOutput: the 541CB output
+          
+**********
+UserInput: the 542User input
+WitOutput: the 542wit output
+DBOutput: the 542DB output
+CBOutput: the 542CB output     False
+          
+**********
+UserInput: the 543User input
+WitOutput: the 543wit output
+DBOutput: the 543DB output
+CBOutput: the 543CB output
+          
+**********
+UserInput: the 544User input
+WitOutput: the 544wit output
+DBOutput: the 544DB output
+CBOutput: the 544CB output     False
+          
+**********
+UserInput: the 545User input
+WitOutput: the 545wit output
+DBOutput: the 545DB output
+CBOutput: the 545CB output
+          
+**********
+UserInput: the 546User input
+WitOutput: the 546wit output
+DBOutput: the 546DB output
+CBOutput: the 546CB output     False
+          
+**********
+UserInput: the 547User input
+WitOutput: the 547wit output
+DBOutput: the 547DB output
+CBOutput: the 547CB output
+          
+**********
+UserInput: the 548User input
+WitOutput: the 548wit output
+DBOutput: the 548DB output
+CBOutput: the 548CB output     False
+          
+**********
+UserInput: the 549User input
+WitOutput: the 549wit output
+DBOutput: the 549DB output
+CBOutput: the 549CB output
+          
+**********
+UserInput: the 550User input
+WitOutput: the 550wit output
+DBOutput: the 550DB output
+CBOutput: the 550CB output     False
+          
+**********
+UserInput: the 551User input
+WitOutput: the 551wit output
+DBOutput: the 551DB output
+CBOutput: the 551CB output
+          
+**********
+UserInput: the 552User input
+WitOutput: the 552wit output
+DBOutput: the 552DB output
+CBOutput: the 552CB output     False
+          
+**********
+UserInput: the 553User input
+WitOutput: the 553wit output
+DBOutput: the 553DB output
+CBOutput: the 553CB output
+          
+**********
+UserInput: the 554User input
+WitOutput: the 554wit output
+DBOutput: the 554DB output
+CBOutput: the 554CB output     False
+          
+**********
+UserInput: the 555User input
+WitOutput: the 555wit output
+DBOutput: the 555DB output
+CBOutput: the 555CB output
+          
+**********
+UserInput: the 556User input
+WitOutput: the 556wit output
+DBOutput: the 556DB output
+CBOutput: the 556CB output     False
+          
+**********
+UserInput: the 557User input
+WitOutput: the 557wit output
+DBOutput: the 557DB output
+CBOutput: the 557CB output
+          
+**********
+UserInput: the 558User input
+WitOutput: the 558wit output
+DBOutput: the 558DB output
+CBOutput: the 558CB output     False
+          
+**********
+UserInput: the 559User input
+WitOutput: the 559wit output
+DBOutput: the 559DB output
+CBOutput: the 559CB output
+          
+**********
+UserInput: the 560User input
+WitOutput: the 560wit output
+DBOutput: the 560DB output
+CBOutput: the 560CB output     False
+          
+**********
+UserInput: the 561User input
+WitOutput: the 561wit output
+DBOutput: the 561DB output
+CBOutput: the 561CB output
+          
+**********
+UserInput: the 562User input
+WitOutput: the 562wit output
+DBOutput: the 562DB output
+CBOutput: the 562CB output     False
+          
+**********
+UserInput: the 563User input
+WitOutput: the 563wit output
+DBOutput: the 563DB output
+CBOutput: the 563CB output
+          
+**********
+UserInput: the 564User input
+WitOutput: the 564wit output
+DBOutput: the 564DB output
+CBOutput: the 564CB output     False
+          
+**********
+UserInput: the 565User input
+WitOutput: the 565wit output
+DBOutput: the 565DB output
+CBOutput: the 565CB output
+          
+**********
+UserInput: the 566User input
+WitOutput: the 566wit output
+DBOutput: the 566DB output
+CBOutput: the 566CB output     False
+          
+**********
+UserInput: the 567User input
+WitOutput: the 567wit output
+DBOutput: the 567DB output
+CBOutput: the 567CB output
+          
+**********
+UserInput: the 568User input
+WitOutput: the 568wit output
+DBOutput: the 568DB output
+CBOutput: the 568CB output     False
+          
+**********
+UserInput: the 569User input
+WitOutput: the 569wit output
+DBOutput: the 569DB output
+CBOutput: the 569CB output
+          
+**********
+UserInput: the 570User input
+WitOutput: the 570wit output
+DBOutput: the 570DB output
+CBOutput: the 570CB output     False
+          
+**********
+UserInput: the 571User input
+WitOutput: the 571wit output
+DBOutput: the 571DB output
+CBOutput: the 571CB output
+          
+**********
+UserInput: the 572User input
+WitOutput: the 572wit output
+DBOutput: the 572DB output
+CBOutput: the 572CB output     False
+          
+**********
+UserInput: the 573User input
+WitOutput: the 573wit output
+DBOutput: the 573DB output
+CBOutput: the 573CB output
+          
+**********
+UserInput: the 574User input
+WitOutput: the 574wit output
+DBOutput: the 574DB output
+CBOutput: the 574CB output     False
+          
+**********
+UserInput: the 575User input
+WitOutput: the 575wit output
+DBOutput: the 575DB output
+CBOutput: the 575CB output
+          
+**********
+UserInput: the 576User input
+WitOutput: the 576wit output
+DBOutput: the 576DB output
+CBOutput: the 576CB output     False
+          
+**********
+UserInput: the 577User input
+WitOutput: the 577wit output
+DBOutput: the 577DB output
+CBOutput: the 577CB output
+          
+**********
+UserInput: the 578User input
+WitOutput: the 578wit output
+DBOutput: the 578DB output
+CBOutput: the 578CB output     False
+          
+**********
+UserInput: the 579User input
+WitOutput: the 579wit output
+DBOutput: the 579DB output
+CBOutput: the 579CB output
+          
+**********
+UserInput: the 580User input
+WitOutput: the 580wit output
+DBOutput: the 580DB output
+CBOutput: the 580CB output     False
+          
+**********
+UserInput: the 581User input
+WitOutput: the 581wit output
+DBOutput: the 581DB output
+CBOutput: the 581CB output
+          
+**********
+UserInput: the 582User input
+WitOutput: the 582wit output
+DBOutput: the 582DB output
+CBOutput: the 582CB output     False
+          
+**********
+UserInput: the 583User input
+WitOutput: the 583wit output
+DBOutput: the 583DB output
+CBOutput: the 583CB output
+          
+**********
+UserInput: the 584User input
+WitOutput: the 584wit output
+DBOutput: the 584DB output
+CBOutput: the 584CB output     False
+          
+**********
+UserInput: the 585User input
+WitOutput: the 585wit output
+DBOutput: the 585DB output
+CBOutput: the 585CB output
+          
+**********
+UserInput: the 586User input
+WitOutput: the 586wit output
+DBOutput: the 586DB output
+CBOutput: the 586CB output     False
+          
+**********
+UserInput: the 587User input
+WitOutput: the 587wit output
+DBOutput: the 587DB output
+CBOutput: the 587CB output
+          
+**********
+UserInput: the 588User input
+WitOutput: the 588wit output
+DBOutput: the 588DB output
+CBOutput: the 588CB output     False
+          
+**********
+UserInput: the 589User input
+WitOutput: the 589wit output
+DBOutput: the 589DB output
+CBOutput: the 589CB output
+          
+**********
+UserInput: the 590User input
+WitOutput: the 590wit output
+DBOutput: the 590DB output
+CBOutput: the 590CB output     False
+          
+**********
+UserInput: the 591User input
+WitOutput: the 591wit output
+DBOutput: the 591DB output
+CBOutput: the 591CB output
+          
+**********
+UserInput: the 592User input
+WitOutput: the 592wit output
+DBOutput: the 592DB output
+CBOutput: the 592CB output     False
+          
+**********
+UserInput: the 593User input
+WitOutput: the 593wit output
+DBOutput: the 593DB output
+CBOutput: the 593CB output
+          
+**********
+UserInput: the 594User input
+WitOutput: the 594wit output
+DBOutput: the 594DB output
+CBOutput: the 594CB output     False
+          
+**********
+UserInput: the 595User input
+WitOutput: the 595wit output
+DBOutput: the 595DB output
+CBOutput: the 595CB output
+          
+**********
+UserInput: the 596User input
+WitOutput: the 596wit output
+DBOutput: the 596DB output
+CBOutput: the 596CB output     False
+          
+**********
+UserInput: the 597User input
+WitOutput: the 597wit output
+DBOutput: the 597DB output
+CBOutput: the 597CB output
+          
+**********
+UserInput: the 598User input
+WitOutput: the 598wit output
+DBOutput: the 598DB output
+CBOutput: the 598CB output     False
+          
+**********
+UserInput: the 599User input
+WitOutput: the 599wit output
+DBOutput: the 599DB output
+CBOutput: the 599CB output
+          
+**********
+UserInput: the 600User input
+WitOutput: the 600wit output
+DBOutput: the 600DB output
+CBOutput: the 600CB output     False
+          
+**********
+UserInput: the 601User input
+WitOutput: the 601wit output
+DBOutput: the 601DB output
+CBOutput: the 601CB output
+          
+**********
+UserInput: the 602User input
+WitOutput: the 602wit output
+DBOutput: the 602DB output
+CBOutput: the 602CB output     False
+          
+**********
+UserInput: the 603User input
+WitOutput: the 603wit output
+DBOutput: the 603DB output
+CBOutput: the 603CB output
+          
+**********
+UserInput: the 604User input
+WitOutput: the 604wit output
+DBOutput: the 604DB output
+CBOutput: the 604CB output     False
+          
+**********
+UserInput: the 605User input
+WitOutput: the 605wit output
+DBOutput: the 605DB output
+CBOutput: the 605CB output
+          
+**********
+UserInput: the 606User input
+WitOutput: the 606wit output
+DBOutput: the 606DB output
+CBOutput: the 606CB output     False
+          
+**********
+UserInput: the 607User input
+WitOutput: the 607wit output
+DBOutput: the 607DB output
+CBOutput: the 607CB output
+          
+**********
+UserInput: the 608User input
+WitOutput: the 608wit output
+DBOutput: the 608DB output
+CBOutput: the 608CB output     False
+          
+**********
+UserInput: the 609User input
+WitOutput: the 609wit output
+DBOutput: the 609DB output
+CBOutput: the 609CB output
+          
+**********
+UserInput: the 610User input
+WitOutput: the 610wit output
+DBOutput: the 610DB output
+CBOutput: the 610CB output     False
+          
+**********
+UserInput: the 611User input
+WitOutput: the 611wit output
+DBOutput: the 611DB output
+CBOutput: the 611CB output
+          
+**********
+UserInput: the 612User input
+WitOutput: the 612wit output
+DBOutput: the 612DB output
+CBOutput: the 612CB output     False
+          
+**********
+UserInput: the 613User input
+WitOutput: the 613wit output
+DBOutput: the 613DB output
+CBOutput: the 613CB output
+          
+**********
+UserInput: the 614User input
+WitOutput: the 614wit output
+DBOutput: the 614DB output
+CBOutput: the 614CB output     False
+          
+**********
+UserInput: the 615User input
+WitOutput: the 615wit output
+DBOutput: the 615DB output
+CBOutput: the 615CB output
+          
+**********
+UserInput: the 616User input
+WitOutput: the 616wit output
+DBOutput: the 616DB output
+CBOutput: the 616CB output     False
+          
+**********
+UserInput: the 617User input
+WitOutput: the 617wit output
+DBOutput: the 617DB output
+CBOutput: the 617CB output
+          
+**********
+UserInput: the 618User input
+WitOutput: the 618wit output
+DBOutput: the 618DB output
+CBOutput: the 618CB output     False
+          
+**********
+UserInput: the 619User input
+WitOutput: the 619wit output
+DBOutput: the 619DB output
+CBOutput: the 619CB output
+          
+**********
+UserInput: the 620User input
+WitOutput: the 620wit output
+DBOutput: the 620DB output
+CBOutput: the 620CB output     False
+          
+**********
+UserInput: the 621User input
+WitOutput: the 621wit output
+DBOutput: the 621DB output
+CBOutput: the 621CB output
+          
+**********
+UserInput: the 622User input
+WitOutput: the 622wit output
+DBOutput: the 622DB output
+CBOutput: the 622CB output     False
+          
+**********
+UserInput: the 623User input
+WitOutput: the 623wit output
+DBOutput: the 623DB output
+CBOutput: the 623CB output
+          
+**********
+UserInput: the 624User input
+WitOutput: the 624wit output
+DBOutput: the 624DB output
+CBOutput: the 624CB output     False
+          
+**********
+UserInput: the 625User input
+WitOutput: the 625wit output
+DBOutput: the 625DB output
+CBOutput: the 625CB output
+          
+**********
+UserInput: the 626User input
+WitOutput: the 626wit output
+DBOutput: the 626DB output
+CBOutput: the 626CB output     False
+          
+**********
+UserInput: the 627User input
+WitOutput: the 627wit output
+DBOutput: the 627DB output
+CBOutput: the 627CB output
+          
+**********
+UserInput: the 628User input
+WitOutput: the 628wit output
+DBOutput: the 628DB output
+CBOutput: the 628CB output     False
+          
+**********
+UserInput: the 629User input
+WitOutput: the 629wit output
+DBOutput: the 629DB output
+CBOutput: the 629CB output
+          
+**********
+UserInput: the 630User input
+WitOutput: the 630wit output
+DBOutput: the 630DB output
+CBOutput: the 630CB output     False
+          
+**********
+UserInput: the 631User input
+WitOutput: the 631wit output
+DBOutput: the 631DB output
+CBOutput: the 631CB output
+          
+**********
+UserInput: the 632User input
+WitOutput: the 632wit output
+DBOutput: the 632DB output
+CBOutput: the 632CB output     False
+          
+**********
+UserInput: the 633User input
+WitOutput: the 633wit output
+DBOutput: the 633DB output
+CBOutput: the 633CB output
+          
+**********
+UserInput: the 634User input
+WitOutput: the 634wit output
+DBOutput: the 634DB output
+CBOutput: the 634CB output     False
+          
+**********
+UserInput: the 635User input
+WitOutput: the 635wit output
+DBOutput: the 635DB output
+CBOutput: the 635CB output
+          
+**********
+UserInput: the 636User input
+WitOutput: the 636wit output
+DBOutput: the 636DB output
+CBOutput: the 636CB output     False
+          
+**********
+UserInput: the 637User input
+WitOutput: the 637wit output
+DBOutput: the 637DB output
+CBOutput: the 637CB output
+          
+**********
+UserInput: the 638User input
+WitOutput: the 638wit output
+DBOutput: the 638DB output
+CBOutput: the 638CB output     False
+          
+**********
+UserInput: the 639User input
+WitOutput: the 639wit output
+DBOutput: the 639DB output
+CBOutput: the 639CB output
+          
+**********
+UserInput: the 640User input
+WitOutput: the 640wit output
+DBOutput: the 640DB output
+CBOutput: the 640CB output     False
+          
+**********
+UserInput: the 641User input
+WitOutput: the 641wit output
+DBOutput: the 641DB output
+CBOutput: the 641CB output
+          
+**********
+UserInput: the 642User input
+WitOutput: the 642wit output
+DBOutput: the 642DB output
+CBOutput: the 642CB output     False
+          
+**********
+UserInput: the 643User input
+WitOutput: the 643wit output
+DBOutput: the 643DB output
+CBOutput: the 643CB output
+          
+**********
+UserInput: the 644User input
+WitOutput: the 644wit output
+DBOutput: the 644DB output
+CBOutput: the 644CB output     False
+          
+**********
+UserInput: the 645User input
+WitOutput: the 645wit output
+DBOutput: the 645DB output
+CBOutput: the 645CB output
+          
+**********
+UserInput: the 646User input
+WitOutput: the 646wit output
+DBOutput: the 646DB output
+CBOutput: the 646CB output     False
+          
+**********
+UserInput: the 647User input
+WitOutput: the 647wit output
+DBOutput: the 647DB output
+CBOutput: the 647CB output
+          
+**********
+UserInput: the 648User input
+WitOutput: the 648wit output
+DBOutput: the 648DB output
+CBOutput: the 648CB output     False
+          
+**********
+UserInput: the 649User input
+WitOutput: the 649wit output
+DBOutput: the 649DB output
+CBOutput: the 649CB output
+          
+**********
+UserInput: the 650User input
+WitOutput: the 650wit output
+DBOutput: the 650DB output
+CBOutput: the 650CB output     False
+          
+**********
+UserInput: the 651User input
+WitOutput: the 651wit output
+DBOutput: the 651DB output
+CBOutput: the 651CB output
+          
+**********
+UserInput: the 652User input
+WitOutput: the 652wit output
+DBOutput: the 652DB output
+CBOutput: the 652CB output     False
+          
+**********
+UserInput: the 653User input
+WitOutput: the 653wit output
+DBOutput: the 653DB output
+CBOutput: the 653CB output
+          
+**********
+UserInput: the 654User input
+WitOutput: the 654wit output
+DBOutput: the 654DB output
+CBOutput: the 654CB output     False
+          
+**********
+UserInput: the 655User input
+WitOutput: the 655wit output
+DBOutput: the 655DB output
+CBOutput: the 655CB output
+          
+**********
+UserInput: the 656User input
+WitOutput: the 656wit output
+DBOutput: the 656DB output
+CBOutput: the 656CB output     False
+          
+**********
+UserInput: the 657User input
+WitOutput: the 657wit output
+DBOutput: the 657DB output
+CBOutput: the 657CB output
+          
+**********
+UserInput: the 658User input
+WitOutput: the 658wit output
+DBOutput: the 658DB output
+CBOutput: the 658CB output     False
+          
+**********
+UserInput: the 659User input
+WitOutput: the 659wit output
+DBOutput: the 659DB output
+CBOutput: the 659CB output
+          
+**********
+UserInput: the 660User input
+WitOutput: the 660wit output
+DBOutput: the 660DB output
+CBOutput: the 660CB output     False
+          
+**********
+UserInput: the 661User input
+WitOutput: the 661wit output
+DBOutput: the 661DB output
+CBOutput: the 661CB output
+          
+**********
+UserInput: the 662User input
+WitOutput: the 662wit output
+DBOutput: the 662DB output
+CBOutput: the 662CB output     False
+          
+**********
+UserInput: the 663User input
+WitOutput: the 663wit output
+DBOutput: the 663DB output
+CBOutput: the 663CB output
+          
+**********
+UserInput: the 664User input
+WitOutput: the 664wit output
+DBOutput: the 664DB output
+CBOutput: the 664CB output     False
+          
+**********
+UserInput: the 665User input
+WitOutput: the 665wit output
+DBOutput: the 665DB output
+CBOutput: the 665CB output
+          
+**********
+UserInput: the 666User input
+WitOutput: the 666wit output
+DBOutput: the 666DB output
+CBOutput: the 666CB output     False
+          
+**********
+UserInput: the 667User input
+WitOutput: the 667wit output
+DBOutput: the 667DB output
+CBOutput: the 667CB output
+          
+**********
+UserInput: the 668User input
+WitOutput: the 668wit output
+DBOutput: the 668DB output
+CBOutput: the 668CB output     False
+          
+**********
+UserInput: the 669User input
+WitOutput: the 669wit output
+DBOutput: the 669DB output
+CBOutput: the 669CB output
+          
+**********
+UserInput: the 670User input
+WitOutput: the 670wit output
+DBOutput: the 670DB output
+CBOutput: the 670CB output     False
+          
+**********
+UserInput: the 671User input
+WitOutput: the 671wit output
+DBOutput: the 671DB output
+CBOutput: the 671CB output
+          
+**********
+UserInput: the 672User input
+WitOutput: the 672wit output
+DBOutput: the 672DB output
+CBOutput: the 672CB output     False
+          
+**********
+UserInput: the 673User input
+WitOutput: the 673wit output
+DBOutput: the 673DB output
+CBOutput: the 673CB output
+          
+**********
+UserInput: the 674User input
+WitOutput: the 674wit output
+DBOutput: the 674DB output
+CBOutput: the 674CB output     False
+          
+**********
+UserInput: the 675User input
+WitOutput: the 675wit output
+DBOutput: the 675DB output
+CBOutput: the 675CB output
+          
+**********
+UserInput: the 676User input
+WitOutput: the 676wit output
+DBOutput: the 676DB output
+CBOutput: the 676CB output     False
+          
+**********
+UserInput: the 677User input
+WitOutput: the 677wit output
+DBOutput: the 677DB output
+CBOutput: the 677CB output
+          
+**********
+UserInput: the 678User input
+WitOutput: the 678wit output
+DBOutput: the 678DB output
+CBOutput: the 678CB output     False
+          
+**********
+UserInput: the 679User input
+WitOutput: the 679wit output
+DBOutput: the 679DB output
+CBOutput: the 679CB output
+          
+**********
+UserInput: the 680User input
+WitOutput: the 680wit output
+DBOutput: the 680DB output
+CBOutput: the 680CB output     False
+          
+**********
+UserInput: the 681User input
+WitOutput: the 681wit output
+DBOutput: the 681DB output
+CBOutput: the 681CB output
+          
+**********
+UserInput: the 682User input
+WitOutput: the 682wit output
+DBOutput: the 682DB output
+CBOutput: the 682CB output     False
+          
+**********
+UserInput: the 683User input
+WitOutput: the 683wit output
+DBOutput: the 683DB output
+CBOutput: the 683CB output
+          
+**********
+UserInput: the 684User input
+WitOutput: the 684wit output
+DBOutput: the 684DB output
+CBOutput: the 684CB output     False
+          
+**********
+UserInput: the 685User input
+WitOutput: the 685wit output
+DBOutput: the 685DB output
+CBOutput: the 685CB output
+          
+**********
+UserInput: the 686User input
+WitOutput: the 686wit output
+DBOutput: the 686DB output
+CBOutput: the 686CB output     False
+          
+**********
+UserInput: the 687User input
+WitOutput: the 687wit output
+DBOutput: the 687DB output
+CBOutput: the 687CB output
+          
+**********
+UserInput: the 688User input
+WitOutput: the 688wit output
+DBOutput: the 688DB output
+CBOutput: the 688CB output     False
+          
+**********
+UserInput: the 689User input
+WitOutput: the 689wit output
+DBOutput: the 689DB output
+CBOutput: the 689CB output
+          
+**********
+UserInput: the 690User input
+WitOutput: the 690wit output
+DBOutput: the 690DB output
+CBOutput: the 690CB output     False
+          
+**********
+UserInput: the 691User input
+WitOutput: the 691wit output
+DBOutput: the 691DB output
+CBOutput: the 691CB output
+          
+**********
+UserInput: the 692User input
+WitOutput: the 692wit output
+DBOutput: the 692DB output
+CBOutput: the 692CB output     False
+          
+**********
+UserInput: the 693User input
+WitOutput: the 693wit output
+DBOutput: the 693DB output
+CBOutput: the 693CB output
+          
+**********
+UserInput: the 694User input
+WitOutput: the 694wit output
+DBOutput: the 694DB output
+CBOutput: the 694CB output     False
+          
+**********
+UserInput: the 695User input
+WitOutput: the 695wit output
+DBOutput: the 695DB output
+CBOutput: the 695CB output
+          
+**********
+UserInput: the 696User input
+WitOutput: the 696wit output
+DBOutput: the 696DB output
+CBOutput: the 696CB output     False
+          
+**********
+UserInput: the 697User input
+WitOutput: the 697wit output
+DBOutput: the 697DB output
+CBOutput: the 697CB output
+          
+**********
+UserInput: the 698User input
+WitOutput: the 698wit output
+DBOutput: the 698DB output
+CBOutput: the 698CB output     False
+          
+**********
+UserInput: the 699User input
+WitOutput: the 699wit output
+DBOutput: the 699DB output
+CBOutput: the 699CB output
+          
+**********
+UserInput: the 700User input
+WitOutput: the 700wit output
+DBOutput: the 700DB output
+CBOutput: the 700CB output     False
+          
+**********
+UserInput: the 701User input
+WitOutput: the 701wit output
+DBOutput: the 701DB output
+CBOutput: the 701CB output
+          
+**********
+UserInput: the 702User input
+WitOutput: the 702wit output
+DBOutput: the 702DB output
+CBOutput: the 702CB output     False
+          
+**********
+UserInput: the 703User input
+WitOutput: the 703wit output
+DBOutput: the 703DB output
+CBOutput: the 703CB output
+          
+**********
+UserInput: the 704User input
+WitOutput: the 704wit output
+DBOutput: the 704DB output
+CBOutput: the 704CB output     False
+          
+**********
+UserInput: the 705User input
+WitOutput: the 705wit output
+DBOutput: the 705DB output
+CBOutput: the 705CB output
+          
+**********
+UserInput: the 706User input
+WitOutput: the 706wit output
+DBOutput: the 706DB output
+CBOutput: the 706CB output     False
+          
+**********
+UserInput: the 707User input
+WitOutput: the 707wit output
+DBOutput: the 707DB output
+CBOutput: the 707CB output
+          
+**********
+UserInput: the 708User input
+WitOutput: the 708wit output
+DBOutput: the 708DB output
+CBOutput: the 708CB output     False
+          
+**********
+UserInput: the 709User input
+WitOutput: the 709wit output
+DBOutput: the 709DB output
+CBOutput: the 709CB output
+          
+**********
+UserInput: the 710User input
+WitOutput: the 710wit output
+DBOutput: the 710DB output
+CBOutput: the 710CB output     False
+          
+**********
+UserInput: the 711User input
+WitOutput: the 711wit output
+DBOutput: the 711DB output
+CBOutput: the 711CB output
+          
+**********
+UserInput: the 712User input
+WitOutput: the 712wit output
+DBOutput: the 712DB output
+CBOutput: the 712CB output     False
+          
+**********
+UserInput: the 713User input
+WitOutput: the 713wit output
+DBOutput: the 713DB output
+CBOutput: the 713CB output
+          
+**********
+UserInput: the 714User input
+WitOutput: the 714wit output
+DBOutput: the 714DB output
+CBOutput: the 714CB output     False
+          
+**********
+UserInput: the 715User input
+WitOutput: the 715wit output
+DBOutput: the 715DB output
+CBOutput: the 715CB output
+          
+**********
+UserInput: the 716User input
+WitOutput: the 716wit output
+DBOutput: the 716DB output
+CBOutput: the 716CB output     False
+          
+**********
+UserInput: the 717User input
+WitOutput: the 717wit output
+DBOutput: the 717DB output
+CBOutput: the 717CB output
+          
+**********
+UserInput: the 718User input
+WitOutput: the 718wit output
+DBOutput: the 718DB output
+CBOutput: the 718CB output     False
+          
+**********
+UserInput: the 719User input
+WitOutput: the 719wit output
+DBOutput: the 719DB output
+CBOutput: the 719CB output
+          
+**********
+UserInput: the 720User input
+WitOutput: the 720wit output
+DBOutput: the 720DB output
+CBOutput: the 720CB output     False
+          
+**********
+UserInput: the 721User input
+WitOutput: the 721wit output
+DBOutput: the 721DB output
+CBOutput: the 721CB output
+          
+**********
+UserInput: the 722User input
+WitOutput: the 722wit output
+DBOutput: the 722DB output
+CBOutput: the 722CB output     False
+          
+**********
+UserInput: the 723User input
+WitOutput: the 723wit output
+DBOutput: the 723DB output
+CBOutput: the 723CB output
+          
+**********
+UserInput: the 724User input
+WitOutput: the 724wit output
+DBOutput: the 724DB output
+CBOutput: the 724CB output     False
+          
+**********
+UserInput: the 725User input
+WitOutput: the 725wit output
+DBOutput: the 725DB output
+CBOutput: the 725CB output
+          
+**********
+UserInput: the 726User input
+WitOutput: the 726wit output
+DBOutput: the 726DB output
+CBOutput: the 726CB output     False
+          
+**********
+UserInput: the 727User input
+WitOutput: the 727wit output
+DBOutput: the 727DB output
+CBOutput: the 727CB output
+          
+**********
+UserInput: the 728User input
+WitOutput: the 728wit output
+DBOutput: the 728DB output
+CBOutput: the 728CB output     False
+          
+**********
+UserInput: the 729User input
+WitOutput: the 729wit output
+DBOutput: the 729DB output
+CBOutput: the 729CB output
+          
+**********
+UserInput: the 730User input
+WitOutput: the 730wit output
+DBOutput: the 730DB output
+CBOutput: the 730CB output     False
+          
+**********
+UserInput: the 731User input
+WitOutput: the 731wit output
+DBOutput: the 731DB output
+CBOutput: the 731CB output
+          
+**********
+UserInput: the 732User input
+WitOutput: the 732wit output
+DBOutput: the 732DB output
+CBOutput: the 732CB output     False
+          
+**********
+UserInput: the 733User input
+WitOutput: the 733wit output
+DBOutput: the 733DB output
+CBOutput: the 733CB output
+          
+**********
+UserInput: the 734User input
+WitOutput: the 734wit output
+DBOutput: the 734DB output
+CBOutput: the 734CB output     False
+          
+**********
+UserInput: the 735User input
+WitOutput: the 735wit output
+DBOutput: the 735DB output
+CBOutput: the 735CB output
+          
+**********
+UserInput: the 736User input
+WitOutput: the 736wit output
+DBOutput: the 736DB output
+CBOutput: the 736CB output     False
+          
+**********
+UserInput: the 737User input
+WitOutput: the 737wit output
+DBOutput: the 737DB output
+CBOutput: the 737CB output
+          
+**********
+UserInput: the 738User input
+WitOutput: the 738wit output
+DBOutput: the 738DB output
+CBOutput: the 738CB output     False
+          
+**********
+UserInput: the 739User input
+WitOutput: the 739wit output
+DBOutput: the 739DB output
+CBOutput: the 739CB output
+          
+**********
+UserInput: the 740User input
+WitOutput: the 740wit output
+DBOutput: the 740DB output
+CBOutput: the 740CB output     False
+          
+**********
+UserInput: the 741User input
+WitOutput: the 741wit output
+DBOutput: the 741DB output
+CBOutput: the 741CB output
+          
+**********
+UserInput: the 742User input
+WitOutput: the 742wit output
+DBOutput: the 742DB output
+CBOutput: the 742CB output     False
+          
+**********
+UserInput: the 743User input
+WitOutput: the 743wit output
+DBOutput: the 743DB output
+CBOutput: the 743CB output
+          
+**********
+UserInput: the 744User input
+WitOutput: the 744wit output
+DBOutput: the 744DB output
+CBOutput: the 744CB output     False
+          
+**********
+UserInput: the 745User input
+WitOutput: the 745wit output
+DBOutput: the 745DB output
+CBOutput: the 745CB output
+          
+**********
+UserInput: the 746User input
+WitOutput: the 746wit output
+DBOutput: the 746DB output
+CBOutput: the 746CB output     False
+          
+**********
+UserInput: the 747User input
+WitOutput: the 747wit output
+DBOutput: the 747DB output
+CBOutput: the 747CB output
+          
+**********
+UserInput: the 748User input
+WitOutput: the 748wit output
+DBOutput: the 748DB output
+CBOutput: the 748CB output     False
+          
+**********
+UserInput: the 749User input
+WitOutput: the 749wit output
+DBOutput: the 749DB output
+CBOutput: the 749CB output
+          
+**********
+UserInput: the 750User input
+WitOutput: the 750wit output
+DBOutput: the 750DB output
+CBOutput: the 750CB output     False
+          
+**********
+UserInput: the 751User input
+WitOutput: the 751wit output
+DBOutput: the 751DB output
+CBOutput: the 751CB output
+          
+**********
+UserInput: the 752User input
+WitOutput: the 752wit output
+DBOutput: the 752DB output
+CBOutput: the 752CB output     False
+          
+**********
+UserInput: the 753User input
+WitOutput: the 753wit output
+DBOutput: the 753DB output
+CBOutput: the 753CB output
+          
+**********
+UserInput: the 754User input
+WitOutput: the 754wit output
+DBOutput: the 754DB output
+CBOutput: the 754CB output     False
+          
+**********
+UserInput: the 755User input
+WitOutput: the 755wit output
+DBOutput: the 755DB output
+CBOutput: the 755CB output
+          
+**********
+UserInput: the 756User input
+WitOutput: the 756wit output
+DBOutput: the 756DB output
+CBOutput: the 756CB output     False
+          
+**********
+UserInput: the 757User input
+WitOutput: the 757wit output
+DBOutput: the 757DB output
+CBOutput: the 757CB output
+          
+**********
+UserInput: the 758User input
+WitOutput: the 758wit output
+DBOutput: the 758DB output
+CBOutput: the 758CB output     False
+          
+**********
+UserInput: the 759User input
+WitOutput: the 759wit output
+DBOutput: the 759DB output
+CBOutput: the 759CB output
+          
+**********
+UserInput: the 760User input
+WitOutput: the 760wit output
+DBOutput: the 760DB output
+CBOutput: the 760CB output     False
+          
+**********
+UserInput: the 761User input
+WitOutput: the 761wit output
+DBOutput: the 761DB output
+CBOutput: the 761CB output
+          
+**********
+UserInput: the 762User input
+WitOutput: the 762wit output
+DBOutput: the 762DB output
+CBOutput: the 762CB output     False
+          
+**********
+UserInput: the 763User input
+WitOutput: the 763wit output
+DBOutput: the 763DB output
+CBOutput: the 763CB output
+          
+**********
+UserInput: the 764User input
+WitOutput: the 764wit output
+DBOutput: the 764DB output
+CBOutput: the 764CB output     False
+          
+**********
+UserInput: the 765User input
+WitOutput: the 765wit output
+DBOutput: the 765DB output
+CBOutput: the 765CB output
+          
+**********
+UserInput: the 766User input
+WitOutput: the 766wit output
+DBOutput: the 766DB output
+CBOutput: the 766CB output     False
+          
+**********
+UserInput: the 767User input
+WitOutput: the 767wit output
+DBOutput: the 767DB output
+CBOutput: the 767CB output
+          
+**********
+UserInput: the 768User input
+WitOutput: the 768wit output
+DBOutput: the 768DB output
+CBOutput: the 768CB output     False
+          
+**********
+UserInput: the 769User input
+WitOutput: the 769wit output
+DBOutput: the 769DB output
+CBOutput: the 769CB output
+          
+**********
+UserInput: the 770User input
+WitOutput: the 770wit output
+DBOutput: the 770DB output
+CBOutput: the 770CB output     False
+          
+**********
+UserInput: the 771User input
+WitOutput: the 771wit output
+DBOutput: the 771DB output
+CBOutput: the 771CB output
+          
+**********
+UserInput: the 772User input
+WitOutput: the 772wit output
+DBOutput: the 772DB output
+CBOutput: the 772CB output     False
+          
+**********
+UserInput: the 773User input
+WitOutput: the 773wit output
+DBOutput: the 773DB output
+CBOutput: the 773CB output
+          
+**********
+UserInput: the 774User input
+WitOutput: the 774wit output
+DBOutput: the 774DB output
+CBOutput: the 774CB output     False
+          
+**********
+UserInput: the 775User input
+WitOutput: the 775wit output
+DBOutput: the 775DB output
+CBOutput: the 775CB output
+          
+**********
+UserInput: the 776User input
+WitOutput: the 776wit output
+DBOutput: the 776DB output
+CBOutput: the 776CB output     False
+          
+**********
+UserInput: the 777User input
+WitOutput: the 777wit output
+DBOutput: the 777DB output
+CBOutput: the 777CB output
+          
+**********
+UserInput: the 778User input
+WitOutput: the 778wit output
+DBOutput: the 778DB output
+CBOutput: the 778CB output     False
+          
+**********
+UserInput: the 779User input
+WitOutput: the 779wit output
+DBOutput: the 779DB output
+CBOutput: the 779CB output
+          
+**********
+UserInput: the 780User input
+WitOutput: the 780wit output
+DBOutput: the 780DB output
+CBOutput: the 780CB output     False
+          
+**********
+UserInput: the 781User input
+WitOutput: the 781wit output
+DBOutput: the 781DB output
+CBOutput: the 781CB output
+          
+**********
+UserInput: the 782User input
+WitOutput: the 782wit output
+DBOutput: the 782DB output
+CBOutput: the 782CB output     False
+          
+**********
+UserInput: the 783User input
+WitOutput: the 783wit output
+DBOutput: the 783DB output
+CBOutput: the 783CB output
+          
+**********
+UserInput: the 784User input
+WitOutput: the 784wit output
+DBOutput: the 784DB output
+CBOutput: the 784CB output     False
+          
+**********
+UserInput: the 785User input
+WitOutput: the 785wit output
+DBOutput: the 785DB output
+CBOutput: the 785CB output
+          
+**********
+UserInput: the 786User input
+WitOutput: the 786wit output
+DBOutput: the 786DB output
+CBOutput: the 786CB output     False
+          
+**********
+UserInput: the 787User input
+WitOutput: the 787wit output
+DBOutput: the 787DB output
+CBOutput: the 787CB output
+          
+**********
+UserInput: the 788User input
+WitOutput: the 788wit output
+DBOutput: the 788DB output
+CBOutput: the 788CB output     False
+          
+**********
+UserInput: the 789User input
+WitOutput: the 789wit output
+DBOutput: the 789DB output
+CBOutput: the 789CB output
+          
+**********
+UserInput: the 790User input
+WitOutput: the 790wit output
+DBOutput: the 790DB output
+CBOutput: the 790CB output     False
+          
+**********
+UserInput: the 791User input
+WitOutput: the 791wit output
+DBOutput: the 791DB output
+CBOutput: the 791CB output
+          
+**********
+UserInput: the 792User input
+WitOutput: the 792wit output
+DBOutput: the 792DB output
+CBOutput: the 792CB output     False
+          
+**********
+UserInput: the 793User input
+WitOutput: the 793wit output
+DBOutput: the 793DB output
+CBOutput: the 793CB output
+          
+**********
+UserInput: the 794User input
+WitOutput: the 794wit output
+DBOutput: the 794DB output
+CBOutput: the 794CB output     False
+          
+**********
+UserInput: the 795User input
+WitOutput: the 795wit output
+DBOutput: the 795DB output
+CBOutput: the 795CB output
+          
+**********
+UserInput: the 796User input
+WitOutput: the 796wit output
+DBOutput: the 796DB output
+CBOutput: the 796CB output     False
+          
+**********
+UserInput: the 797User input
+WitOutput: the 797wit output
+DBOutput: the 797DB output
+CBOutput: the 797CB output
+          
+**********
+UserInput: the 798User input
+WitOutput: the 798wit output
+DBOutput: the 798DB output
+CBOutput: the 798CB output     False
+          
+**********
+UserInput: the 799User input
+WitOutput: the 799wit output
+DBOutput: the 799DB output
+CBOutput: the 799CB output
+          
+**********
+UserInput: the 800User input
+WitOutput: the 800wit output
+DBOutput: the 800DB output
+CBOutput: the 800CB output     False
+          
+**********
+UserInput: the 801User input
+WitOutput: the 801wit output
+DBOutput: the 801DB output
+CBOutput: the 801CB output
+          
+**********
+UserInput: the 802User input
+WitOutput: the 802wit output
+DBOutput: the 802DB output
+CBOutput: the 802CB output     False
+          
+**********
+UserInput: the 803User input
+WitOutput: the 803wit output
+DBOutput: the 803DB output
+CBOutput: the 803CB output
+          
+**********
+UserInput: the 804User input
+WitOutput: the 804wit output
+DBOutput: the 804DB output
+CBOutput: the 804CB output     False
+          
+**********
+UserInput: the 805User input
+WitOutput: the 805wit output
+DBOutput: the 805DB output
+CBOutput: the 805CB output
+          
+**********
+UserInput: the 806User input
+WitOutput: the 806wit output
+DBOutput: the 806DB output
+CBOutput: the 806CB output     False
+          
+**********
+UserInput: the 807User input
+WitOutput: the 807wit output
+DBOutput: the 807DB output
+CBOutput: the 807CB output
+          
+**********
+UserInput: the 808User input
+WitOutput: the 808wit output
+DBOutput: the 808DB output
+CBOutput: the 808CB output     False
+          
+**********
+UserInput: the 809User input
+WitOutput: the 809wit output
+DBOutput: the 809DB output
+CBOutput: the 809CB output
+          
+**********
+UserInput: the 810User input
+WitOutput: the 810wit output
+DBOutput: the 810DB output
+CBOutput: the 810CB output     False
+          
+**********
+UserInput: the 811User input
+WitOutput: the 811wit output
+DBOutput: the 811DB output
+CBOutput: the 811CB output
+          
+**********
+UserInput: the 812User input
+WitOutput: the 812wit output
+DBOutput: the 812DB output
+CBOutput: the 812CB output     False
+          
+**********
+UserInput: the 813User input
+WitOutput: the 813wit output
+DBOutput: the 813DB output
+CBOutput: the 813CB output
+          
+**********
+UserInput: the 814User input
+WitOutput: the 814wit output
+DBOutput: the 814DB output
+CBOutput: the 814CB output     False
+          
+**********
+UserInput: the 815User input
+WitOutput: the 815wit output
+DBOutput: the 815DB output
+CBOutput: the 815CB output
+          
+**********
+UserInput: the 816User input
+WitOutput: the 816wit output
+DBOutput: the 816DB output
+CBOutput: the 816CB output     False
+          
+**********
+UserInput: the 817User input
+WitOutput: the 817wit output
+DBOutput: the 817DB output
+CBOutput: the 817CB output
+          
+**********
+UserInput: the 818User input
+WitOutput: the 818wit output
+DBOutput: the 818DB output
+CBOutput: the 818CB output     False
+          
+**********
+UserInput: the 819User input
+WitOutput: the 819wit output
+DBOutput: the 819DB output
+CBOutput: the 819CB output
+          
+**********
+UserInput: the 820User input
+WitOutput: the 820wit output
+DBOutput: the 820DB output
+CBOutput: the 820CB output     False
+          
+**********
+UserInput: the 821User input
+WitOutput: the 821wit output
+DBOutput: the 821DB output
+CBOutput: the 821CB output
+          
+**********
+UserInput: the 822User input
+WitOutput: the 822wit output
+DBOutput: the 822DB output
+CBOutput: the 822CB output     False
+          
+**********
+UserInput: the 823User input
+WitOutput: the 823wit output
+DBOutput: the 823DB output
+CBOutput: the 823CB output
+          
+**********
+UserInput: the 824User input
+WitOutput: the 824wit output
+DBOutput: the 824DB output
+CBOutput: the 824CB output     False
+          
+**********
+UserInput: the 825User input
+WitOutput: the 825wit output
+DBOutput: the 825DB output
+CBOutput: the 825CB output
+          
+**********
+UserInput: the 826User input
+WitOutput: the 826wit output
+DBOutput: the 826DB output
+CBOutput: the 826CB output     False
+          
+**********
+UserInput: the 827User input
+WitOutput: the 827wit output
+DBOutput: the 827DB output
+CBOutput: the 827CB output
+          
+**********
+UserInput: the 828User input
+WitOutput: the 828wit output
+DBOutput: the 828DB output
+CBOutput: the 828CB output     False
+          
+**********
+UserInput: the 829User input
+WitOutput: the 829wit output
+DBOutput: the 829DB output
+CBOutput: the 829CB output
+          
+**********
+UserInput: the 830User input
+WitOutput: the 830wit output
+DBOutput: the 830DB output
+CBOutput: the 830CB output     False
+          
+**********
+UserInput: the 831User input
+WitOutput: the 831wit output
+DBOutput: the 831DB output
+CBOutput: the 831CB output
+          
+**********
+UserInput: the 832User input
+WitOutput: the 832wit output
+DBOutput: the 832DB output
+CBOutput: the 832CB output     False
+          
+**********
+UserInput: the 833User input
+WitOutput: the 833wit output
+DBOutput: the 833DB output
+CBOutput: the 833CB output
+          
+**********
+UserInput: the 834User input
+WitOutput: the 834wit output
+DBOutput: the 834DB output
+CBOutput: the 834CB output     False
+          
+**********
+UserInput: the 835User input
+WitOutput: the 835wit output
+DBOutput: the 835DB output
+CBOutput: the 835CB output
+          
+**********
+UserInput: the 836User input
+WitOutput: the 836wit output
+DBOutput: the 836DB output
+CBOutput: the 836CB output     False
+          
+**********
+UserInput: the 837User input
+WitOutput: the 837wit output
+DBOutput: the 837DB output
+CBOutput: the 837CB output
+          
+**********
+UserInput: the 838User input
+WitOutput: the 838wit output
+DBOutput: the 838DB output
+CBOutput: the 838CB output     False
+          
+**********
+UserInput: the 839User input
+WitOutput: the 839wit output
+DBOutput: the 839DB output
+CBOutput: the 839CB output
+          
+**********
+UserInput: the 840User input
+WitOutput: the 840wit output
+DBOutput: the 840DB output
+CBOutput: the 840CB output     False
+          
+**********
+UserInput: the 841User input
+WitOutput: the 841wit output
+DBOutput: the 841DB output
+CBOutput: the 841CB output
+          
+**********
+UserInput: the 842User input
+WitOutput: the 842wit output
+DBOutput: the 842DB output
+CBOutput: the 842CB output     False
+          
+**********
+UserInput: the 843User input
+WitOutput: the 843wit output
+DBOutput: the 843DB output
+CBOutput: the 843CB output
+          
+**********
+UserInput: the 844User input
+WitOutput: the 844wit output
+DBOutput: the 844DB output
+CBOutput: the 844CB output     False
+          
+**********
+UserInput: the 845User input
+WitOutput: the 845wit output
+DBOutput: the 845DB output
+CBOutput: the 845CB output
+          
+**********
+UserInput: the 846User input
+WitOutput: the 846wit output
+DBOutput: the 846DB output
+CBOutput: the 846CB output     False
+          
+**********
+UserInput: the 847User input
+WitOutput: the 847wit output
+DBOutput: the 847DB output
+CBOutput: the 847CB output
+          
+**********
+UserInput: the 848User input
+WitOutput: the 848wit output
+DBOutput: the 848DB output
+CBOutput: the 848CB output     False
+          
+**********
+UserInput: the 849User input
+WitOutput: the 849wit output
+DBOutput: the 849DB output
+CBOutput: the 849CB output
+          
+**********
+UserInput: the 850User input
+WitOutput: the 850wit output
+DBOutput: the 850DB output
+CBOutput: the 850CB output     False
+          
+**********
+UserInput: the 851User input
+WitOutput: the 851wit output
+DBOutput: the 851DB output
+CBOutput: the 851CB output
+          
+**********
+UserInput: the 852User input
+WitOutput: the 852wit output
+DBOutput: the 852DB output
+CBOutput: the 852CB output     False
+          
+**********
+UserInput: the 853User input
+WitOutput: the 853wit output
+DBOutput: the 853DB output
+CBOutput: the 853CB output
+          
+**********
+UserInput: the 854User input
+WitOutput: the 854wit output
+DBOutput: the 854DB output
+CBOutput: the 854CB output     False
+          
+**********
+UserInput: the 855User input
+WitOutput: the 855wit output
+DBOutput: the 855DB output
+CBOutput: the 855CB output
+          
+**********
+UserInput: the 856User input
+WitOutput: the 856wit output
+DBOutput: the 856DB output
+CBOutput: the 856CB output     False
+          
+**********
+UserInput: the 857User input
+WitOutput: the 857wit output
+DBOutput: the 857DB output
+CBOutput: the 857CB output
+          
+**********
+UserInput: the 858User input
+WitOutput: the 858wit output
+DBOutput: the 858DB output
+CBOutput: the 858CB output     False
+          
+**********
+UserInput: the 859User input
+WitOutput: the 859wit output
+DBOutput: the 859DB output
+CBOutput: the 859CB output
+          
+**********
+UserInput: the 860User input
+WitOutput: the 860wit output
+DBOutput: the 860DB output
+CBOutput: the 860CB output     False
+          
+**********
+UserInput: the 861User input
+WitOutput: the 861wit output
+DBOutput: the 861DB output
+CBOutput: the 861CB output
+          
+**********
+UserInput: the 862User input
+WitOutput: the 862wit output
+DBOutput: the 862DB output
+CBOutput: the 862CB output     False
+          
+**********
+UserInput: the 863User input
+WitOutput: the 863wit output
+DBOutput: the 863DB output
+CBOutput: the 863CB output
+          
+**********
+UserInput: the 864User input
+WitOutput: the 864wit output
+DBOutput: the 864DB output
+CBOutput: the 864CB output     False
+          
+**********
+UserInput: the 865User input
+WitOutput: the 865wit output
+DBOutput: the 865DB output
+CBOutput: the 865CB output
+          
+**********
+UserInput: the 866User input
+WitOutput: the 866wit output
+DBOutput: the 866DB output
+CBOutput: the 866CB output     False
+          
+**********
+UserInput: the 867User input
+WitOutput: the 867wit output
+DBOutput: the 867DB output
+CBOutput: the 867CB output
+          
+**********
+UserInput: the 868User input
+WitOutput: the 868wit output
+DBOutput: the 868DB output
+CBOutput: the 868CB output     False
+          
+**********
+UserInput: the 869User input
+WitOutput: the 869wit output
+DBOutput: the 869DB output
+CBOutput: the 869CB output
+          
+**********
+UserInput: the 870User input
+WitOutput: the 870wit output
+DBOutput: the 870DB output
+CBOutput: the 870CB output     False
+          
+**********
+UserInput: the 871User input
+WitOutput: the 871wit output
+DBOutput: the 871DB output
+CBOutput: the 871CB output
+          
+**********
+UserInput: the 872User input
+WitOutput: the 872wit output
+DBOutput: the 872DB output
+CBOutput: the 872CB output     False
+          
+**********
+UserInput: the 873User input
+WitOutput: the 873wit output
+DBOutput: the 873DB output
+CBOutput: the 873CB output
+          
+**********
+UserInput: the 874User input
+WitOutput: the 874wit output
+DBOutput: the 874DB output
+CBOutput: the 874CB output     False
+          
+**********
+UserInput: the 875User input
+WitOutput: the 875wit output
+DBOutput: the 875DB output
+CBOutput: the 875CB output
+          
+**********
+UserInput: the 876User input
+WitOutput: the 876wit output
+DBOutput: the 876DB output
+CBOutput: the 876CB output     False
+          
+**********
+UserInput: the 877User input
+WitOutput: the 877wit output
+DBOutput: the 877DB output
+CBOutput: the 877CB output
+          
+**********
+UserInput: the 878User input
+WitOutput: the 878wit output
+DBOutput: the 878DB output
+CBOutput: the 878CB output     False
+          
+**********
+UserInput: the 879User input
+WitOutput: the 879wit output
+DBOutput: the 879DB output
+CBOutput: the 879CB output
+          
+**********
+UserInput: the 880User input
+WitOutput: the 880wit output
+DBOutput: the 880DB output
+CBOutput: the 880CB output     False
+          
+**********
+UserInput: the 881User input
+WitOutput: the 881wit output
+DBOutput: the 881DB output
+CBOutput: the 881CB output
+          
+**********
+UserInput: the 882User input
+WitOutput: the 882wit output
+DBOutput: the 882DB output
+CBOutput: the 882CB output     False
+          
+**********
+UserInput: the 883User input
+WitOutput: the 883wit output
+DBOutput: the 883DB output
+CBOutput: the 883CB output
+          
+**********
+UserInput: the 884User input
+WitOutput: the 884wit output
+DBOutput: the 884DB output
+CBOutput: the 884CB output     False
+          
+**********
+UserInput: the 885User input
+WitOutput: the 885wit output
+DBOutput: the 885DB output
+CBOutput: the 885CB output
+          
+**********
+UserInput: the 886User input
+WitOutput: the 886wit output
+DBOutput: the 886DB output
+CBOutput: the 886CB output     False
+          
+**********
+UserInput: the 887User input
+WitOutput: the 887wit output
+DBOutput: the 887DB output
+CBOutput: the 887CB output
+          
+**********
+UserInput: the 888User input
+WitOutput: the 888wit output
+DBOutput: the 888DB output
+CBOutput: the 888CB output     False
+          
+**********
+UserInput: the 889User input
+WitOutput: the 889wit output
+DBOutput: the 889DB output
+CBOutput: the 889CB output
+          
+**********
+UserInput: the 890User input
+WitOutput: the 890wit output
+DBOutput: the 890DB output
+CBOutput: the 890CB output     False
+          
+**********
+UserInput: the 891User input
+WitOutput: the 891wit output
+DBOutput: the 891DB output
+CBOutput: the 891CB output
+          
+**********
+UserInput: the 892User input
+WitOutput: the 892wit output
+DBOutput: the 892DB output
+CBOutput: the 892CB output     False
+          
+**********
+UserInput: the 893User input
+WitOutput: the 893wit output
+DBOutput: the 893DB output
+CBOutput: the 893CB output
+          
+**********
+UserInput: the 894User input
+WitOutput: the 894wit output
+DBOutput: the 894DB output
+CBOutput: the 894CB output     False
+          
+**********
+UserInput: the 895User input
+WitOutput: the 895wit output
+DBOutput: the 895DB output
+CBOutput: the 895CB output
+          
+**********
+UserInput: the 896User input
+WitOutput: the 896wit output
+DBOutput: the 896DB output
+CBOutput: the 896CB output     False
+          
+**********
+UserInput: the 897User input
+WitOutput: the 897wit output
+DBOutput: the 897DB output
+CBOutput: the 897CB output
+          
+**********
+UserInput: the 898User input
+WitOutput: the 898wit output
+DBOutput: the 898DB output
+CBOutput: the 898CB output     False
+          
+**********
+UserInput: the 899User input
+WitOutput: the 899wit output
+DBOutput: the 899DB output
+CBOutput: the 899CB output
+          
+**********
+UserInput: the 900User input
+WitOutput: the 900wit output
+DBOutput: the 900DB output
+CBOutput: the 900CB output     False
+          
+**********
+UserInput: the 901User input
+WitOutput: the 901wit output
+DBOutput: the 901DB output
+CBOutput: the 901CB output
+          
+**********
+UserInput: the 902User input
+WitOutput: the 902wit output
+DBOutput: the 902DB output
+CBOutput: the 902CB output     False
+          
+**********
+UserInput: the 903User input
+WitOutput: the 903wit output
+DBOutput: the 903DB output
+CBOutput: the 903CB output
+          
+**********
+UserInput: the 904User input
+WitOutput: the 904wit output
+DBOutput: the 904DB output
+CBOutput: the 904CB output     False
+          
+**********
+UserInput: the 905User input
+WitOutput: the 905wit output
+DBOutput: the 905DB output
+CBOutput: the 905CB output
+          
+**********
+UserInput: the 906User input
+WitOutput: the 906wit output
+DBOutput: the 906DB output
+CBOutput: the 906CB output     False
+          
+**********
+UserInput: the 907User input
+WitOutput: the 907wit output
+DBOutput: the 907DB output
+CBOutput: the 907CB output
+          
+**********
+UserInput: the 908User input
+WitOutput: the 908wit output
+DBOutput: the 908DB output
+CBOutput: the 908CB output     False
+          
+**********
+UserInput: the 909User input
+WitOutput: the 909wit output
+DBOutput: the 909DB output
+CBOutput: the 909CB output
+          
+**********
+UserInput: the 910User input
+WitOutput: the 910wit output
+DBOutput: the 910DB output
+CBOutput: the 910CB output     False
+          
+**********
+UserInput: the 911User input
+WitOutput: the 911wit output
+DBOutput: the 911DB output
+CBOutput: the 911CB output
+          
+**********
+UserInput: the 912User input
+WitOutput: the 912wit output
+DBOutput: the 912DB output
+CBOutput: the 912CB output     False
+          
+**********
+UserInput: the 913User input
+WitOutput: the 913wit output
+DBOutput: the 913DB output
+CBOutput: the 913CB output
+          
+**********
+UserInput: the 914User input
+WitOutput: the 914wit output
+DBOutput: the 914DB output
+CBOutput: the 914CB output     False
+          
+**********
+UserInput: the 915User input
+WitOutput: the 915wit output
+DBOutput: the 915DB output
+CBOutput: the 915CB output
+          
+**********
+UserInput: the 916User input
+WitOutput: the 916wit output
+DBOutput: the 916DB output
+CBOutput: the 916CB output     False
+          
+**********
+UserInput: the 917User input
+WitOutput: the 917wit output
+DBOutput: the 917DB output
+CBOutput: the 917CB output
+          
+**********
+UserInput: the 918User input
+WitOutput: the 918wit output
+DBOutput: the 918DB output
+CBOutput: the 918CB output     False
+          
+**********
+UserInput: the 919User input
+WitOutput: the 919wit output
+DBOutput: the 919DB output
+CBOutput: the 919CB output
+          
+**********
+UserInput: the 920User input
+WitOutput: the 920wit output
+DBOutput: the 920DB output
+CBOutput: the 920CB output     False
+          
+**********
+UserInput: the 921User input
+WitOutput: the 921wit output
+DBOutput: the 921DB output
+CBOutput: the 921CB output
+          
+**********
+UserInput: the 922User input
+WitOutput: the 922wit output
+DBOutput: the 922DB output
+CBOutput: the 922CB output     False
+          
+**********
+UserInput: the 923User input
+WitOutput: the 923wit output
+DBOutput: the 923DB output
+CBOutput: the 923CB output
+          
+**********
+UserInput: the 924User input
+WitOutput: the 924wit output
+DBOutput: the 924DB output
+CBOutput: the 924CB output     False
+          
+**********
+UserInput: the 925User input
+WitOutput: the 925wit output
+DBOutput: the 925DB output
+CBOutput: the 925CB output
+          
+**********
+UserInput: the 926User input
+WitOutput: the 926wit output
+DBOutput: the 926DB output
+CBOutput: the 926CB output     False
+          
+**********
+UserInput: the 927User input
+WitOutput: the 927wit output
+DBOutput: the 927DB output
+CBOutput: the 927CB output
+          
+**********
+UserInput: the 928User input
+WitOutput: the 928wit output
+DBOutput: the 928DB output
+CBOutput: the 928CB output     False
+          
+**********
+UserInput: the 929User input
+WitOutput: the 929wit output
+DBOutput: the 929DB output
+CBOutput: the 929CB output
+          
+**********
+UserInput: the 930User input
+WitOutput: the 930wit output
+DBOutput: the 930DB output
+CBOutput: the 930CB output     False
+          
+**********
+UserInput: the 931User input
+WitOutput: the 931wit output
+DBOutput: the 931DB output
+CBOutput: the 931CB output
+          
+**********
+UserInput: the 932User input
+WitOutput: the 932wit output
+DBOutput: the 932DB output
+CBOutput: the 932CB output     False
+          
+**********
+UserInput: the 933User input
+WitOutput: the 933wit output
+DBOutput: the 933DB output
+CBOutput: the 933CB output
+          
+**********
+UserInput: the 934User input
+WitOutput: the 934wit output
+DBOutput: the 934DB output
+CBOutput: the 934CB output     False
+          
+**********
+UserInput: the 935User input
+WitOutput: the 935wit output
+DBOutput: the 935DB output
+CBOutput: the 935CB output
+          
+**********
+UserInput: the 936User input
+WitOutput: the 936wit output
+DBOutput: the 936DB output
+CBOutput: the 936CB output     False
+          
+**********
+UserInput: the 937User input
+WitOutput: the 937wit output
+DBOutput: the 937DB output
+CBOutput: the 937CB output
+          
+**********
+UserInput: the 938User input
+WitOutput: the 938wit output
+DBOutput: the 938DB output
+CBOutput: the 938CB output     False
+          
+**********
+UserInput: the 939User input
+WitOutput: the 939wit output
+DBOutput: the 939DB output
+CBOutput: the 939CB output
+          
+**********
+UserInput: the 940User input
+WitOutput: the 940wit output
+DBOutput: the 940DB output
+CBOutput: the 940CB output     False
+          
+**********
+UserInput: the 941User input
+WitOutput: the 941wit output
+DBOutput: the 941DB output
+CBOutput: the 941CB output
+          
+**********
+UserInput: the 942User input
+WitOutput: the 942wit output
+DBOutput: the 942DB output
+CBOutput: the 942CB output     False
+          
+**********
+UserInput: the 943User input
+WitOutput: the 943wit output
+DBOutput: the 943DB output
+CBOutput: the 943CB output
+          
+**********
+UserInput: the 944User input
+WitOutput: the 944wit output
+DBOutput: the 944DB output
+CBOutput: the 944CB output     False
+          
+**********
+UserInput: the 945User input
+WitOutput: the 945wit output
+DBOutput: the 945DB output
+CBOutput: the 945CB output
+          
+**********
+UserInput: the 946User input
+WitOutput: the 946wit output
+DBOutput: the 946DB output
+CBOutput: the 946CB output     False
+          
+**********
+UserInput: the 947User input
+WitOutput: the 947wit output
+DBOutput: the 947DB output
+CBOutput: the 947CB output
+          
+**********
+UserInput: the 948User input
+WitOutput: the 948wit output
+DBOutput: the 948DB output
+CBOutput: the 948CB output     False
+          
+**********
+UserInput: the 949User input
+WitOutput: the 949wit output
+DBOutput: the 949DB output
+CBOutput: the 949CB output
+          
+**********
+UserInput: the 950User input
+WitOutput: the 950wit output
+DBOutput: the 950DB output
+CBOutput: the 950CB output     False
+          
+**********
+UserInput: the 951User input
+WitOutput: the 951wit output
+DBOutput: the 951DB output
+CBOutput: the 951CB output
+          
+**********
+UserInput: the 952User input
+WitOutput: the 952wit output
+DBOutput: the 952DB output
+CBOutput: the 952CB output     False
+          
+**********
+UserInput: the 953User input
+WitOutput: the 953wit output
+DBOutput: the 953DB output
+CBOutput: the 953CB output
+          
+**********
+UserInput: the 954User input
+WitOutput: the 954wit output
+DBOutput: the 954DB output
+CBOutput: the 954CB output     False
+          
+**********
+UserInput: the 955User input
+WitOutput: the 955wit output
+DBOutput: the 955DB output
+CBOutput: the 955CB output
+          
+**********
+UserInput: the 956User input
+WitOutput: the 956wit output
+DBOutput: the 956DB output
+CBOutput: the 956CB output     False
+          
+**********
+UserInput: the 957User input
+WitOutput: the 957wit output
+DBOutput: the 957DB output
+CBOutput: the 957CB output
+          
+**********
+UserInput: the 958User input
+WitOutput: the 958wit output
+DBOutput: the 958DB output
+CBOutput: the 958CB output     False
+          
+**********
+UserInput: the 959User input
+WitOutput: the 959wit output
+DBOutput: the 959DB output
+CBOutput: the 959CB output
+          
+**********
+UserInput: the 960User input
+WitOutput: the 960wit output
+DBOutput: the 960DB output
+CBOutput: the 960CB output     False
+          
+**********
+UserInput: the 961User input
+WitOutput: the 961wit output
+DBOutput: the 961DB output
+CBOutput: the 961CB output
+          
+**********
+UserInput: the 962User input
+WitOutput: the 962wit output
+DBOutput: the 962DB output
+CBOutput: the 962CB output     False
+          
+**********
+UserInput: the 963User input
+WitOutput: the 963wit output
+DBOutput: the 963DB output
+CBOutput: the 963CB output
+          
+**********
+UserInput: the 964User input
+WitOutput: the 964wit output
+DBOutput: the 964DB output
+CBOutput: the 964CB output     False
+          
+**********
+UserInput: the 965User input
+WitOutput: the 965wit output
+DBOutput: the 965DB output
+CBOutput: the 965CB output
+          
+**********
+UserInput: the 966User input
+WitOutput: the 966wit output
+DBOutput: the 966DB output
+CBOutput: the 966CB output     False
+          
+**********
+UserInput: the 967User input
+WitOutput: the 967wit output
+DBOutput: the 967DB output
+CBOutput: the 967CB output
+          
+**********
+UserInput: the 968User input
+WitOutput: the 968wit output
+DBOutput: the 968DB output
+CBOutput: the 968CB output     False
+          
+**********
+UserInput: the 969User input
+WitOutput: the 969wit output
+DBOutput: the 969DB output
+CBOutput: the 969CB output
+          
+**********
+UserInput: the 970User input
+WitOutput: the 970wit output
+DBOutput: the 970DB output
+CBOutput: the 970CB output     False
+          
+**********
+UserInput: the 971User input
+WitOutput: the 971wit output
+DBOutput: the 971DB output
+CBOutput: the 971CB output
+          
+**********
+UserInput: the 972User input
+WitOutput: the 972wit output
+DBOutput: the 972DB output
+CBOutput: the 972CB output     False
+          
+**********
+UserInput: the 973User input
+WitOutput: the 973wit output
+DBOutput: the 973DB output
+CBOutput: the 973CB output
+          
+**********
+UserInput: the 974User input
+WitOutput: the 974wit output
+DBOutput: the 974DB output
+CBOutput: the 974CB output     False
+          
+**********
+UserInput: the 975User input
+WitOutput: the 975wit output
+DBOutput: the 975DB output
+CBOutput: the 975CB output
+          
+**********
+UserInput: the 976User input
+WitOutput: the 976wit output
+DBOutput: the 976DB output
+CBOutput: the 976CB output     False
+          
+**********
+UserInput: the 977User input
+WitOutput: the 977wit output
+DBOutput: the 977DB output
+CBOutput: the 977CB output
+          
+**********
+UserInput: the 978User input
+WitOutput: the 978wit output
+DBOutput: the 978DB output
+CBOutput: the 978CB output     False
+          
+**********
+UserInput: the 979User input
+WitOutput: the 979wit output
+DBOutput: the 979DB output
+CBOutput: the 979CB output
+          
+**********
+UserInput: the 980User input
+WitOutput: the 980wit output
+DBOutput: the 980DB output
+CBOutput: the 980CB output     False
+          
+**********
+UserInput: the 981User input
+WitOutput: the 981wit output
+DBOutput: the 981DB output
+CBOutput: the 981CB output
+          
+**********
+UserInput: the 982User input
+WitOutput: the 982wit output
+DBOutput: the 982DB output
+CBOutput: the 982CB output     False
+          
+**********
+UserInput: the 983User input
+WitOutput: the 983wit output
+DBOutput: the 983DB output
+CBOutput: the 983CB output
+          
+**********
+UserInput: the 984User input
+WitOutput: the 984wit output
+DBOutput: the 984DB output
+CBOutput: the 984CB output     False
+          
+**********
+UserInput: the 985User input
+WitOutput: the 985wit output
+DBOutput: the 985DB output
+CBOutput: the 985CB output
+          
+**********
+UserInput: the 986User input
+WitOutput: the 986wit output
+DBOutput: the 986DB output
+CBOutput: the 986CB output     False
+          
+**********
+UserInput: the 987User input
+WitOutput: the 987wit output
+DBOutput: the 987DB output
+CBOutput: the 987CB output
+          
+**********
+UserInput: the 988User input
+WitOutput: the 988wit output
+DBOutput: the 988DB output
+CBOutput: the 988CB output     False
+          
+**********
+UserInput: the 989User input
+WitOutput: the 989wit output
+DBOutput: the 989DB output
+CBOutput: the 989CB output
+          
+**********
+UserInput: the 990User input
+WitOutput: the 990wit output
+DBOutput: the 990DB output
+CBOutput: the 990CB output     False
+          
+**********
+UserInput: the 991User input
+WitOutput: the 991wit output
+DBOutput: the 991DB output
+CBOutput: the 991CB output
+          
+**********
+UserInput: the 992User input
+WitOutput: the 992wit output
+DBOutput: the 992DB output
+CBOutput: the 992CB output     False
+          
+**********
+UserInput: the 993User input
+WitOutput: the 993wit output
+DBOutput: the 993DB output
+CBOutput: the 993CB output
+          
+**********
+UserInput: the 994User input
+WitOutput: the 994wit output
+DBOutput: the 994DB output
+CBOutput: the 994CB output     False
+          
+**********
+UserInput: the 995User input
+WitOutput: the 995wit output
+DBOutput: the 995DB output
+CBOutput: the 995CB output
+          
+**********
+UserInput: the 996User input
+WitOutput: the 996wit output
+DBOutput: the 996DB output
+CBOutput: the 996CB output     False
+          
+**********
+UserInput: the 997User input
+WitOutput: the 997wit output
+DBOutput: the 997DB output
+CBOutput: the 997CB output
+          
+**********
+UserInput: the 998User input
+WitOutput: the 998wit output
+DBOutput: the 998DB output
+CBOutput: the 998CB output     False
+          
+**********
+UserInput: the 999User input
+WitOutput: the 999wit output
+DBOutput: the 999DB output
+CBOutput: the 999CB output
+          
+**********
