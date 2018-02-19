@@ -1,0 +1,42 @@
+Title
+Colleague Section ID
+Section Name
+Course ID
+Description
+Location
+Term
+Dates
+Start Date
+End Date
+Meeting Info
+Buildings
+Building 1
+Classrooms
+Classrooms 1
+Instruction Methods
+Instruction Method 1
+Week Days
+Week Days 1
+Start Time 1
+End Time 1
+Start Time
+End Time
+Course Types
+Course Type 1
+Capacity
+Subject
+Department 1
+Departments
+Course Number
+Section Number
+Academic Level
+Faculty
+Faculty 1
+Credits
+Minimum Credits
+Prerequisites
+Last Updated
+Instance
+Prereq Length Warning
+Drop End Date
+Drop Grades Reqd Date

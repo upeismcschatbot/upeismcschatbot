@@ -1,0 +1,111 @@
+ Actuarial Mathematics Lab I
+ Actuarial Science I
+ Actuarial Science II 
+ Adv. Insurance and Actuarial Practices 
+ Advanced Computer Graphics Programming 
+ Advanced Corporate Finance for Actuaries 
+ Advanced Topics in MCS 
+ Analysis and Design of Algorithms
+ Applied Regression Analysis
+ Artificial Intelligence/Automated Reason 
+ Calc for Mangerial, Social, Life Science 
+ Cloud Computing
+ Co-op Career Skills II 
+ Co-op Work Term I
+ Co-op Work Term II 
+ Co-op Work Term III
+ Co-op Work Term IV 
+ Combinatorial Optimization 
+ Combinatorics I
+ Combinatorics II 
+ Comparative Programming Languages
+ Compiler Design
+ Complex Variables
+ Computer Communications
+ Computer Graphics Programming
+ Computer Organization and Architecture 
+ Computer Science I 
+ Computer Science II
+ Credibility Theory 
+ Cryptography and Codes 
+ Data Analysis and Inference
+ Data Science 
+ Data Visualization and Mining
+ Database Systems 
+ Differential Equations 
+ Digital Systems
+ Directed Studies 
+ Dynamical Systems
+ Elements of Mathematics
+ Experimental Design
+ Financial Economics I
+ Financial Economics II 
+ Financial Mathematics and Investments
+ Financial Mathematics II 
+ Financial Mathematics III
+ Finite Mathematics 
+ Foundations of Geometry
+ Functional Analysis
+ Game Theory
+ Generalized Linear Models
+ GGY Axis Technology Lab
+ Graph Theory 
+ Group Theory 
+ Honours Project
+ Human-Computer Interface Design
+ Introduction to Bioinformatics 
+ Introduction to Computer Programming Sci 
+ Introductory Statistics I
+ Introductory Statistics II 
+ Linear Algebra I 
+ Linear Algebra II
+ Loss Models I
+ Loss Models II 
+ Machine Learning and Data Mining 
+ Maple Technology Lab 
+ Mathematical Modelling 
+ Mathematical Reasoning 
+ Mathematics of Finance 
+ Matlab Technology Lab
+ Measure Theory and Integration 
+ Mobile Device Development - Android
+ Mobile Device Development - iOS
+ Multivariable and Vector Calculus
+ Multivariate Analysis
+ Nonlinear Optimization 
+ Number Theory
+ Numerical Analysis 
+ Operating Systems
+ Optimization 
+ Partial Differential Equations 
+ Point-Set Topology 
+ Practical Embedded Systems 
+ Probability and Math Statistics I
+ Probability and Math Statistics II 
+ Professional Communication and Practice
+ Programming Practices
+ Prototype Systems Development
+ Quantitative Risk Management 
+ Quantum Information
+ R Technology Lab 
+ Real Analysis
+ Ring and Field Theory
+ Single Variable Calculus I 
+ Single Variable Calculus II
+ Software Design and Architecture 
+ Software Engineering 
+ Software System Project
+ Special Topics in Mathematical and Compu 
+ Statistical Simulation 
+ Stochastic Processes 
+ Tech. Management and Entrepreneurship
+ Theory of Computing
+ Time Series I
+ Time Series II 
+ Tutoring in Math. and Comput. Sciences 
+ Video Game Design
+ Video Game Programming Project 
+ Video-Game Architecture
+ Visual Basic in Excel Technology Lab 
+ Web Development and Programming
+ Wireless Sensor Networks 
