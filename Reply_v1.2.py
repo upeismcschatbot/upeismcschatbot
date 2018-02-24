@@ -189,7 +189,7 @@ if len(intents)==1:
     elif len(speccond)>1:
        j=int(len(specvalue)/2)
        for i in range(j):
-         print(reply(intents[i],[specvalue[2*i],specvalue[2*i+1]],i))
+         print(reply(intents[0],[specvalue[2*i],specvalue[2*i+1]],i))
 elif len(intents)==2:
   if len(speccond)==1:
     if len(specvalue)==1:
@@ -198,12 +198,17 @@ elif len(intents)==2:
        print (reply(intents[0],[specvalue[0]],0)+", and "+reply(intents[0],[specvalue[1]],1))
        print(reply(intents[1], [specvalue[0]], 2) + ", and " + reply(intents[1], [specvalue[1]], 3))
   elif len (speccond)==2:
+        j=int(len(specvalue)/2)
+       for i in range(j):
+         print(reply(intents[0],[specvalue[2*i],specvalue[2*i+1]],i))
+         print(reply(intents[1],[specvalue[2*i],specvalue[2*i+1]],i))
+       """
        print(reply(intents[0],[specvalue[0],specvalue[1]],0))
        print(reply(intents[0], [specvalue[2], specvalue[3]], 1))
        print(reply(intents[1], [specvalue[4], specvalue[5]], 2))
        print(reply(intents[1], [specvalue[6], specvalue[7]], 3))
-
-
+      """
+     
 
 
 
